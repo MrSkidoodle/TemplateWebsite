@@ -1,0 +1,3333 @@
+ABANDON | Parasire | Parasire
+ABANDONEZ | Parasesc | Parasesc
+ABATERE | Greseala fata de regula | Greseala fata
+ABATOR | Loc unde se taie animale | Loc unde se
+ABATUT | Trist | Trist
+ABDOMEN | Burta | Burta
+ABIL | Priceput | Priceput
+ABILITATE | Pricepere | Pricepere
+ABIS | Prapastie | Prapastie
+ABRUPT | Foarte inclinat | Foarte inclinat
+ABSENT | Care lipseste | Care lipseste
+ABSOARBE | Soarbe lichide | Soarbe
+ABSOLVENT | Cel care a terminat o scoala | Licentiat
+ABSORBI | Sorbi | Sorbi
+ABSORBIT | Tras inauntru | Tras inauntru
+ABSURDA | Fara sens | Fara sens
+ABUZIV | Facut peste limita legii | Peste limita
+ACADEA | Bomboana tare pe bat | Bomboana
+ACADEMIC | De la universitate | De la universitate
+ACCELERAT | Grabit | Grabit
+ACCEPTABIL | Care poate fi primit | Care poate fi
+ACCEPTATA | Primita | Primita
+ACCESAT | Intrat pe | Intrat
+ACCESEZ | Intru pe | Intru pe
+ACCESORII | Obiecte pentru completare | Obiecte
+ACELORA | Ale celor | Ale celor
+ACHIZITIE | Lucru cumparat | Cumparatura
+ACORDATA | Data | Data
+ACRA | Cu gust ca lamaia | Cu gust
+ACRU | Gust ca de lamaie | Gust
+ACTIVARE | Pornire | Pornire
+ACTIVATA | Pornita | Pornita
+ACTIVEZ | Pornesc | Pornesc
+ACUT | Foarte ascutit | Foarte ascutit
+ACUTA | Ascutita sau grava | Ascutita
+ACVARIU | Bazin cu pesti | Bazin
+ADAPA | Ii dai de baut animalului | Da apa
+ADECVATA | Potrivita | Potrivita
+ADEMENIT | Atras cu viclenie | Atras
+ADEPT | Sustinator | Sustinator
+ADESEORI | Des | Des
+ADIERE | Vant slab | Vant slab
+ADINEAURI | Acum o clipa | Acum o clipa
+ADMIRA | Te uiti cu placere la o priveliste | Privi cu drag
+ADMIRABIL | Vrednic de admiratie | Vrednic de admiratie
+ADMIRATOR | Fan | Fan
+ADMISA | Primita | Primita
+ADMITERE | Examen de intrare | Examen de intrare
+ADOARME | Cade in somn | Cade in somn
+ADOLESCENTA | Fata intre copilarie si maturitate | Tinera
+ADOPT | Iau un copil ca al meu | Iau
+ADOPTA | Iei un copil ca al tau | Infiezi
+ADOPTATA | Luata ca a ta | Infiata
+ADOPTIVA | Luata ca a ta | Luata
+ADORAT | Venerat | Venerat
+ADORMITA | Cufundata in somn | Cufundata
+ADRENALINA | Hormon al fricii si al sperantei | Hormon
+ADRESAT | Trimis catre | Trimis catre
+ADRESATA | Trimisa | Trimisa
+ADULTA | Matura | Matura
+ADUNATURA | Strangere de lucruri sau oameni | Gramada
+AERISIRE | Schimbare a aerului | Schimbare a aerului
+AFIRM | Sustin | Sustin
+AFIRMAT | Zis cu convingere | Spus
+AFIRMATIE | Ce spui cu hotarare | Ce spui
+AFIRMATIV | Care spune da | Da
+AFUMAT | Tratat cu fum | Tratat cu fum
+AGATA | Atarna | Atarna
+AGATE | Sa atarne | Sa atarne
+AGENTA | Femeie reprezentant | Femeie reprezentant
+AGERIME | Iuteala mintii | Istetime
+AGIT | Scutur | Scutur
+AGITATIE | Zbucium | Zbucium
+AGLOMERATA | Plina de lume | Inghesuita
+AGONIE | Chin lung | Chin
+AGONISI | Strangi cu truda | Aduni
+AGRESIVA | Gata de atac | Gata de atac
+AGRESOR | Cel care ataca | Cel care ataca
+AICEA | Aici, popular | Aici
+AIURIT | Zapacit | Zapacit
+AJUN | Ziua dinaintea unei sarbatori | Seara
+AJUNSA | Sosita | Sosita
+ALAMA | Aliaj galben dintre cupru si zinc | Aliaj
+ALATURATA | Lipita de ceva | Lipita
+ALBIE | Cursul pe care curge raul | Matca
+ALBINA | Insecta care face miere | Insecta
+ALCATUI | Faci dintr-o multime de parti | Compune
+ALCATUIT | Format | Format
+ALEATORIU | Intamplator | Intamplator
+ALEI | Poteci pavate | Poteci pavate
+ALERGAM | Fugim | Fugim
+ALERGARE | Sport in care nu stai pe loc | Sprint
+ALERGATI | Fugiti | Fugiti
+ALERGATOR | Sportiv de cursa | Sprinter
+ALERGIE | Reactie la praf sau polen | Reactie
+ALERT | Rapid, plin de viata | Vioi
+ALERTAT | Anuntat de pericol | Anuntat
+ALGORITM | Set de pasi pentru rezolvare | Set de pasi
+ALIAJ | Amestec de metale | Amestec de metale
+ALIGATOR | Reptila de apa | Reptila
+ALIMENTAR | Legat de mancare | De mancare
+ALIMENTAT | Hranit | Hranit
+ALIN | Usurez durerea | Usurez durerea
+ALINARE | Usurare | Usurare
+ALINIAT | Pus pe un rand | Pus
+ALINTA | Mangaie cu vorbe dulci | Rasfata
+ALOCAT | Repartizat | Repartizat
+ALPINISM | Sport de tras pe munte | Sport de munte
+ALTERNATIV | Pe rand | Pe rand
+ALTITUDINE | Inaltime fata de mare | Inaltime
+ALTMINTERI | In caz contrar | In caz contrar
+ALTRUIST | Care se gandeste la altii | Care se gandeste
+ALUMINIU | Metal usor si argintiu | Metal
+ALUNA | Copac cu nuci mici | Fruct
+ALUNECA | Calci pe gheata si | Luneca
+ALUNECARE | Luneca pe gheata | Luneca
+ALUNECOS | Pe care luneci | Pe care luneci
+ALUNG | Gonesc | Gonesc
+ALUZIE | Vorba in doi peri | Vorba in doi
+AMABILITATE | Politete | Politete
+AMAN | Mut pe mai tarziu | Mut
+AMANARE | Mutare pe alta data | Intarziere
+AMANET | Obiect lasat drept garantie | Obiect de garantie
+AMANETA | Lasa un obiect drept garantie | Gaja
+AMANUNT | Detaliu | Detaliu
+AMARA | Cu gust neplacut | Cu gust neplacut
+AMARATA | Trista | Trista
+AMARNIC | Cu multa durere | Tare
+AMBALAJ | Hartie sau cutie in care vine produsul | Invelis
+AMBALARE | Impachetare | Impachetare
+AMBALAT | Impachetat | Impachetat
+AMBELOR | Amandurora | Amandurora
+AMBIT | Cadru sau domeniu | Domeniu
+AMBITIE | Dorinta mare de reusita | Tenacitate
+AMBITIOS | Cu dorinta mare de succes | Dornic
+AMBULANT | Care umbla dintr-un loc in altul | Itinerant
+AMENINTATA | Pusa in pericol | Pusa in pericol
+AMERICANCA | Femeie din SUA | Femeie din SUA
+AMESTECATA | Mixata | Mixata
+AMETI | Ti se invarte capul | Te invarti
+AMICA | Prietena apropiata | Prietena
+AMNEZIE | Pierderea memoriei | Uitare
+AMONTE | Spre izvorul raului | Spre izvor
+AMOROASA | Plina de dragoste | Plina de dragoste
+AMORTIT | Insensibil | Insensibil
+AMPER | Unitate de curent | Unitate de curent
+AMPLOARE | Marime | Marime
+AMULETA | Obiect norocos purtat la gat | Talisman
+AMURG | Soarele coboara la orizont | Apus
+AMUZ | Distrez | Distrez
+AMUZA | Faci sa rada | Distreaza
+AMUZAMENT | Distractie | Distractie
+AMUZAT | Vesel | Vesel
+ANALIST | Cel care examineaza date | Cel care examineaza
+ANALIZEZ | Cercetez | Cercetez
+ANANAS | Fruct tropical cu coroana | Fruct tropical
+ANANGHIE | Situatie grea | Situatie grea
+ANARHIE | Lipsa totala de ordine | Lipsa de ordine
+ANATOMIE | Studiul corpului | Studiul corpului
+ANCHETAT | Cercetat de politie | Cercetat
+ANCHETATOR | Cel care cerceteaza | Cel care cerceteaza
+ANDROID | Sistem de operare sau robot | Sistem de operare
+ANESTEZIC | Amorteste durerea | Amorteste
+ANESTEZIE | Amortire pentru operatie | Amortire
+ANGAJARE | Primire la serviciu | Primire
+ANIMAT | Plin de viata | Plin de viata
+ANONIMA | Fara semnatura | Fara semnatura
+ANTERIOARA | Dinainte | Precedenta
+ANTICIPAT | Prevazut | Prevazut
+ANTILOPA | Animal rapid din savana | Animal rapid
+ANTREPRENOR | Initiaza afaceri | Initiaza afaceri
+ANUALA | De fiecare an | De fiecare an
+ANULARE | Desfiintare | Desfiintare
+ANUMITOR | Unora | Unora
+ANUNTATA | Spusa public | Spusa public
+ANXIETATE | Neliniste | Neliniste
+APARATI | Protejati | Protejati
+APARATOR | Cel ce protejeaza | Cel ce protejeaza
+APARATURA | Totalitatea aparatelor | Totalitatea aparatelor
+APAREM | Ne aratam | Ne aratam
+APARITIE | Aratare sau prezenta pe scena | Ivire
+APELARE | Chemare | Chemare
+APERITIV | Gustare inainte de masa | Gustare
+APESE | Sa presese | Sa presese
+APETIT | Pofta de mancare | Pofta
+APLAUDA | Bati din palme | Aclama
+APLEC | Inclin | Inclin
+APLIC | Pun peste | Pun peste
+APLICATIE | Program pe telefon | Soft
+APRECIERE | Pretuire | Pretuire
+APRINDERE | Inceput de foc | Inceput de foc
+APROB | Spun da | Spun da
+APROBATA | Acceptata | Acceptata
+APT | Capabil | Capabil
+ARAGAZ | Gatesti pe el | Gatesti pe el
+ARAMA | Metal rosiatic din care se fac cabluri | Cupru
+ARANJAMENT | Mod de asezare | Oranduire
+ARANJATA | Pusa in ordine | Pusa la punct
+ARBORE | Copac inalt | Copac
+ARBUZ | Fruct rosu si zemos de vara | Fruct
+ARCA | Corabia lui Noe | Corabia lui Noe
+ARCADA | Poarta in forma de arc | Bolta
+ARCTIC | Polar, foarte frig | Polar
+ARDEA | Era in flacari | Era in flacari
+ARDEAL | Provincie cu munti si cetati | Transilvania
+ARDETI | Dati foc | Dati foc
+AREAL | Zona in care traieste o specie | Teritoriu
+ARENDA | Chirie pe un teren | Chirie
+ARGAT | Muncitor la tara | Slujitor
+ARGINTIE | Culoarea metalului alb | Culoare
+ARHEOLOG | Cerceteaza vestigii vechi | Cerceteaza vestigii
+ARHITECTURA | Arta de a proiecta cladiri | Arta cladirilor
+ARHIVA | Loc cu hartii vechi | Dosare
+ARICI | Animale inteapatoare, cu spini pe spate | Animale inteapatoare
+ARICIUL | Animal cu epi pe spate | Inteparos
+ARIE | Cantec solo din opera | Cantec
+ARM | Echipez cu arme | Echipez
+ARMISTITIU | Oprirea luptelor | Oprirea luptelor
+ARSENAL | Depozit de arme | Depozit de arme
+ARSENIC | Otrava | Otrava
+ARSURA | Rana de la foc | Rana
+ARTAR | Copac cu frunza lobata | Copac
+ARTEFACT | Obiect antic | Obiect antic
+ARTERIALA | Referitoare la vasele de sange | De artere
+ARTIFICIAL | Nenatural | Nenatural
+ARTIFICIALA | Facuta de om | Facuta de om
+ARTILERIE | Tunuri si obuze | Tunuri
+ARTISTA | Femeie care face arta | Femeie de arta
+ARTISTIC | De arta | De arta
+ARUNCATOR | Cel care azvarle | Cel care azvarle
+ARZATOR | Elementul care aprinde gazul | Elementul de aragaz
+ASALTA | Ataci din toate partile | Ataca
+ASASINARE | Omor | Omor
+ASCENSIUNE | Urcare | Urcare
+ASCET | Cel care traieste cu foarte putin | Pustnic
+ASCULTARE | Atentie la ce spune altul | Atentie
+ASCULTATOR | Care face ce i se spune | Cuminte
+ASCUNZATOARE | Loc secret | Refugiu
+ASCUTITA | Cu varf | Cu varf
+ASEAMANA | Face la fel | Face la fel
+ASEMANA | Esti ca altul | Semeni
+ASEZATA | Pusa la loc | Pusa la loc
+ASFALT | Pavaj negru | Pavaj negru
+ASFINTIT | Apusul soarelui | Apus
+ASIATIC | Din Asia | Din Asia
+ASIGURATA | Garantata | Garantata
+ASOCIERE | Unire | Unire
+ASPIRATOR | Curata praful din casa | Electrocasnic
+ASPRA | Dura | Dura
+ASTEPTAU | Stateau pana vine ceva | Stau
+ASTEROID | Corp ceresc mic | Corp ceresc
+ASTRONAUT | Calatoreste in cosmos | Cosmonaut
+ASTRU | Soare sau luna pe cer | Corp ceresc
+ASTUPA | Pui dop | Infundi
+ATACATOR | Cel ce loveste primul | Cel ce loveste
+ATARN | Sunt agatat | Sunt agatat
+ATARNAT | Pus intr-un cui | Spanzurat
+ATASATA | Legata | Legata
+ATENTAT | Atac asupra unei persoane | Atac
+ATERIZEZ | Cobor la sol | Cobor la sol
+ATEU | Cel ce nu crede in Dumnezeu | Necredincios
+ATINSA | Pipaita | Pipaita
+ATIPIT | Adormit usor | Adormit usor
+ATLAS | Carte cu harti | Harti
+ATLETIC | Cu corp de sportiv | Cu corp
+ATOTPUTERNIC | Cu putere nelimitata | Suprem
+ATRACTIE | Loc sau lucru care atrage lumea | Farmec
+ATRACTIVA | Frumoasa | Frumoasa
+ATRIBUIT | Dat | Dat
+ATROCE | Cumplit | Cumplit
+ATU | Carte de joc care bate celelalte | Carte
+AUDIT | Control financiar | Control financiar
+AURA | Lumina in jurul unui sfant | Halou
+AUREOLA | Cerc de lumina deasupra capului | Halou
+AUSTRALIAN | Din tara cangurilor | Din tara cangurilor
+AUTISM | Tulburare de comunicare | Tulburare
+AUTOMATA | Care functioneaza singura | Care merge singura
+AUTOMOBIL | Masina | Masina
+AUTORITATILE | Cei care conduc | Oficialii
+AUTORIZATIE | Permis | Permis
+AUZ | Simtul cu care percepi sunetul | Simt
+AUZEA | Percepea sunete | Percepea sunete
+AUZIND | Percepand sunete | Percepand sunete
+AUZISEM | Aflasem | Aflasem
+AUZITA | Perceputa | Perceputa
+AVANPOST | Punct inaintat al armatei | Straja
+AVANT | Elan | Elan
+AVARIAT | Stricat | Stricat
+AVARIATA | Stricata | Stricata
+AVERTIZARE | Atentionare | Atentionare
+AVIATIE | Zborul cu avioane | Zborul
+AVIDITATE | Pofta mare | Lacomie
+AVIZ | Aprobare data de o institutie | Aprobare
+AVIZIER | Panou cu anunturi | Panou
+AVOCADO | Fruct verde cu sambure mare | Fruct verde
+AVOCATA | Femeie care apara in tribunal | Femeie care apara
+AVUSESE | Detinuse | Detinuse
+AZOT | Gaz din aer | Gaz din aer
+AZVARLI | Lansezi cu putere | Arunci
+BABORD | Partea stanga a navei | Partea stanga
+BABUSCA | Femeie batrana, cu mult drag | Bunicuta
+BACAN | Vanzator de alimente | Negustor
+BACANIE | Magazin vechi de alimente | Magazin vechi
+BACTERIE | Microb | Microb
+BAGARE | Introducere | Introducere
+BAGATA | Introdusa | Introdusa
+BAGHETA | Paine lunga franceza sau bat de dirijor | Paine lunga
+BAIETAS | Baiat mic | Baiat mic
+BALAMUC | Zapaceala mare | Zapaceala
+BALANTA | Instrument de cantarit | Instrument de cantarit
+BALAUR | Dragon din basme | Zmeu
+BALBAI | Vorbesti poticnit | Vorbesti poticnit
+BALCI | Targ cu distractii | Targ
+BALEGA | Excrement de vaca | Excrement
+BALEGAR | Ingrasamant de la animale | Ingrasamant
+BALERINA | Danseaza pe varfuri | Danseaza pe varfuri
+BALISTIC | Legat de traiectoria proiectilelor | Legat de proiectile
+BALSAM | Il pui pe par dupa sampon | Ingrijire
+BAMBUS | Planta lunga si goala pe dinauntru | Planta
+BANALA | Obisnuita | Obisnuita
+BANCHET | Masa festiva | Ospat
+BANCNOTA | Banii de hartie | Bani de hartie
+BANCOMAT | Scoti bani din el | Scoti bani
+BANDAJ | Fasa pusa pe rana | Fasa
+BANJO | Instrument cu corzi american | Instrument cu corzi
+BANNER | Pancarta pe internet | Pancarta
+BARAC | Locuinta provizorie din scandura | Cabana
+BARACA | Locuinta saracacioasa din scandura | Locuinta
+BARBAR | Salbatic | Salbatic
+BARBIERIT | Fara barba | Fara barba
+BARCUTA | Mica ambarcatiune | Barca
+BARFA | Vorbe despre altii | Vorbe despre altii
+BARIERE | Opreliste la trecerea la nivel | Opreliste
+BARIL | Butoi mic | Butoi
+BARN | Planta salbatica | Planta
+BARZA | Aduce bebelusii, zice povestea | Pasare
+BAS | Voce grava | Voce grava
+BASCA | Palarie turtita franceza | Palarie
+BASMA | Panza pentru cap | Panza pentru cap
+BATALION | Unitate militara | Unitate militara
+BATAND | Lovind | Lovind
+BATISTA | Servetel pentru nas | Naframa
+BATRANEA | Etapa din urma a vietii | Varsta
+BATRANETE | Anii de la sfarsitul vietii | Senectute
+BAZAIT | Sunet de insecta | Sunet de insecta
+BAZILIC | Planta aromata folosita in pizza | Planta
+BAZINET | Patut pentru nou-nascut | Leagan
+BECI | Pivnita | Pivnita
+BEDEA | Cel care ajuta la biserica | Paracliser
+BEGONIA | Floare de ghiveci | Floare
+BEJ | Culoare crem | Culoare crem
+BELCIUG | Inel mare de metal | Inel
+BELSUG | Abundenta | Imbelsugare
+BENEFIC | Bun, aducator de bine | Bun
+BENEFICIU | Avantaj | Avantaj
+BENZILE | Fasiile lungi | Fasiile
+BENZINARIE | Unde alimentezi masina | Statie
+BERBEC | Masculul oii | Ovina cu coarne
+BERZA | Varza verde sau pasare | Varza
+BERZE | Pasari cu picioare lungi, rosii | Pasari
+BESTIAL | Salbatic | Salbatic
+BEZNA | Intuneric total | Intuneric
+BICEPS | Muschiul bratului | Muschi
+BIFAT | Marcat cu semn | Marcat
+BIFTEC | Friptura groasa de vita | Friptura
+BIJUTERIE | Inel, colier sau cercel | Podoaba
+BILANT | Socoteala la sfarsit de an | Raport
+BILETEL | Mica hartie cu mesaj | Mesaj scurt
+BINECUVANTAT | Fericit de Dumnezeu | Fericit
+BINEFACERE | Fapta buna | Fapta buna
+BINELUI | Al lucrului bun | Al lucrului bun
+BIO | Natural, ecologic | Ecologic
+BIOLOG | Studiaza fiintele | Studiaza fiintele
+BIOPSIE | Prelevare de tesut | Prelevare
+BIPED | Care merge in doua picioare | Fiinta
+BIR | Dare grea | Dare grea
+BIS | Inca o data, strigat la concert | Repetare
+BISCUIT | Prajitura uscata, mica | Dulce
+BISER | Bijuterie creata de scoica | Perla
+BISTURIU | Cutit de chirurg | Cutit de chirurg
+BIVOL | Vita mare cu coarne rasucite | Bovina
+BIZARA | Ciudata | Ciudata
+BIZON | Taur salbatic american | Taur salbatic
+BLANDETE | Duiosie | Duiosie
+BLANURI | Haine din piele de animal | Haine din blana
+BLASFEMIE | Vorba urata la adresa sfantului | Vorba urata
+BLAZER | Haina eleganta sport | Sacou
+BLEU | Albastru deschis | Albastru deschis
+BLINDAT | Protejat cu otel | Intarit
+BLINDATA | Protejata cu otel | Protejata
+BLOCADA | Inchidere a drumurilor | Inchidere
+BLOCHEZ | Opresc | Opresc
+BLOGUL | Jurnalul de pe internet | Jurnalul
+BLUGII | Pantalonii de panza groasa | Pantalonii
+BOA | Sarpe mare sau esarfa de pene | Sarpe mare
+BOABA | Samanta mica de cafea sau struguri | Samanta
+BOCANC | Ghete grele de iarna | Incaltaminte
+BOCET | Cantec de jale | Plans
+BOGATIE | Avere mare | Avere
+BOI | Animal tras la plug | Bovina
+BOLILOR | Ale suferintelor | Ale suferintelor
+BOLOVAN | Piatra mare | Piatra mare
+BOLTA | Acoperis curbat | Acoperis curbat
+BOMBARDAMENT | Atac cu bombe | Atac
+BOMBARDAT | Atacat din aer | Atacat
+BOMBOANA | Dulce mic | Dulce
+BOMBON | Dulce invelit in staniol | Dulciuri
+BONDAR | Albina mare si paroasa | Insecta paroasa
+BONJOUR | Salut frantuzesc | Salut frantuzesc
+BORA | Vant puternic de iarna | Vant puternic
+BOXUL | Sportul cu manusi | Sportul cu manusi
+BRANCARD | Pat pentru bolnavi cand sunt carati | Targa
+BRAU | Curea larga sau dans | Centura
+BRAV | Curajos | Curajos
+BRAZDA | Santul lasat de plug | Sant
+BRE | Fraza de strigare | Fraza
+BRICHETA | Aprinde tigara | Aprinde tigara
+BRIO | Vioiciune, in muzica | Vioiciune
+BRIOSA | Cozonac mic, frantuzesc | Patiserie
+BROASTE | Sar prin balta | Amfibii
+BROCCOLI | Leguma verde ca un copac mic | Leguma verde
+BRODERIE | Cusatura frumoasa pe ie | Cusatura
+BROKER | Intermediar la bursa | Intermediar
+BRONZAT | Pielea arsa de soare | Pielea arsa
+BROSA | Bijuterie prinsa de haina | Bijuterie
+BROSCUTA | Mica amfibie verde | Amfibie mica
+BROSURA | Mica publicatie | Revista
+BROWNING | Pistol | Pistol
+BRUIAJ | Perturbare a semnalului | Perturbare
+BRUMA | Strat subtire de gheata pe iarba | Chiciura
+BRUN | Culoarea ciocolatei | Maro
+BRUNET | Cu parul inchis | Negricios
+BRUNETA | Femeie cu parul inchis | Femeie
+BRUSTE | Neasteptate | Neasteptate
+BRUTALA | Salbatica | Salbatica
+BRUTALITATE | Violenta | Violenta
+BRUTAR | Cel care face paine | Panificator
+BRUTARIE | Locul unde se coace painea | Locul unde se
+BUBURUZA | Insecta rosie cu puncte negre | Insecta rosie
+BUCATAREASA | Femeie care gateste | Femeie care gateste
+BUCATILE | Fragmentele | Fragmentele
+BUCLA | Fir de par rasucit | Carlig
+BUCLAT | Cu par cret | Cret
+BUCLE | Suvite de par ondulate | Zulufi
+BUDA | Toaleta de la tara | Toaleta
+BUDIST | Adept al lui Buddha | Adept al lui
+BUFNITA | Pasare de noapte cu ochi mari | Pasare de noapte
+BUFON | Clovn de la curtea regala | Clovn
+BUGETAR | Cel platit de stat | Functionar
+BULA | Balon de aer sau sapun | Balon de aer
+BULETIN | Act de identitate | Act de identitate
+BULIBASA | Sef de tigani | Conducator
+BULINA | Punct mic | Punct
+BULION | Supa limpede | Supa
+BUNAVOINTA | Dorinta de a face bine | Amabilitate
+BUNICI | Parintii parintilor | Parintii parintilor
+BURDUF | Sac de piele pentru branza | Sac
+BURETE | Il folosesti la spalat vase | Ciuperca
+BURIC | Semn in mijlocul burtii | Semn in mijlocul
+BURTICA | Burta mica | Burta mica
+BURUIENI | Plante nedorite | Plante nedorite
+BUSINESS | Afacere | Afacere
+BUSOLA | Arata unde e nordul | Orientare
+BUST | Sculptura cu cap si umeri | Sculptura
+BUSTEAN | Bucata mare de lemn | Buturuga
+BUTIC | Magazin mic de haine | Magazin
+BUTURUGA | Trunchi taiat | Lemn
+BUZDUGAN | Arma veche cu cap rotund | Arma
+CABARET | Local cu spectacol de varietati | Local de spectacole
+CACIULA | Pui pe cap iarna | Pui pe cap
+CACTUS | Planta cu epi care iubeste desertul | Planta
+CAIET | Il scrii la scoala | Carnet
+CAISA | Fruct portocaliu cu samburi | Fruct
+CALATOR | Pleaca la drum | Drumet
+CALCATI | Netezi | Netezi
+CALCIU | Mineral pentru oase | Mineral
+CALDARE | Vas mare in care fierbi | Vas
+CALDUROASA | Cu multa caldura | Cu multa caldura
+CALDUROS | Primitor | Primitor
+CALIFICARE | Pregatire profesionala | Pregatire
+CALMANT | Pastila de linistit | Pastila
+CALUGARITA | Femeie la manastire | Femeie la manastire
+CALULUI | Al animalului pentru calarit | Al armasarului
+CALUS | Pielea ingrosata de la pantofi | Piele
+CALVAR | Chin | Chin
+CAMARA | Incapere pentru provizii | Spatiu
+CAMARAD | Coleg de lupta | Coleg
+CAMASI | Haine cu nasturi si guler | Haine cu nasturi
+CAMERISTA | Face curat in camerele hotelului | Face curat
+CAMILA | Animal cu cocoase din desert | Animal de desert
+CAMPIE | Teren plat si intins | Teren plat
+CAMPIONAT | Competitie cu titlu | Competitie
+CAMUFLAJ | Ascundere prin culori | Ascundere prin culori
+CANADIAN | Din tara frunzei de artar | Din Canada
+CANALIE | Om rau | Om rau
+CANALIZARE | Retea de scurgere a apelor | Retea
+CANARI | Pasari galbene care canta | Pasari
+CANAT | Una din partile unei usi | Foaie
+CANCELAR | Conducator de guvern | Conducator
+CANDELA | Lumina mica langa icoana | Lumina
+CANDID | Pur, nevinovat | Nevinovat
+CANGUR | Animal australian cu marsupiu | Animal australian
+CANOE | Barca ingusta | Barca ingusta
+CANTAREATA | Femeie care interpreteaza | Artista
+CANTARET | Canta | Interpret
+CAPACITATE | Cat poate cuprinde | Volum
+CAPATA | Lua | Lua
+CAPETI | Primesti | Primesti
+CAPODOPERA | Opera perfecta | Opera perfecta
+CAPPUCCINO | Cafea cu lapte spumat | Cafea
+CAPRICIU | Toana | Toana
+CAPRIOARA | Animal salbatic gratios din padure | Animal
+CAPRUI | Maro deschis | Maro deschis
+CAPSUNA | Fruct rosu cu seminte pe dinafara | Fruct
+CAPTA | Prinzi un semnal | Prinde
+CAPTAT | Prins | Prins
+CAPTIV | Prins | Prins
+CAPTIVA | Prizoniera | Prizoniera
+CAPTIVANT | Care te tine cu sufletul la gura | Care te tine
+CARAGHIOS | Ridicol | Ridicol
+CARAMEL | Zahar topit si invartit | Dulceata
+CARARE | Poteca | Poteca
+CARAVANA | Grup mare de vehicule sau camile | Convoi
+CARCASA | Invelisul unui aparat | Invelisul
+CARCERA | Celula de pedeapsa | Celula
+CARCIUMA | Han vechi | Han
+CARDINAL | Inalt demnitar catolic sau punct | Inalt prelat
+CARIE | O are dintele stricat | Stricaciune
+CARIERE | Drumuri profesionale | Drumuri profesionale
+CARITABIL | Care ajuta pe altii | Care ajuta
+CARNAT | Mezel | Mezel
+CARNET | Mic caiet | Caiet
+CARNII | A materiei din muschi | A materiei
+CART | Unitate de cursa cu masini mici | Masinuta de cursa
+CARTEL | Grup de afaceri ilegale | Grup de afaceri
+CARTELA | Card prepaid | Card
+CARTILOR | Ale volumelor | Ale volumelor
+CARTITA | Animal care sapa galerii | Animal care sapa
+CARTUS | Glont cu invelis | Munitie
+CARUCIOR | Cu el plimbi bebelusul | Trasura
+CARUSEL | Se invarte la balci | Atractie
+CASCADA | Apa care cade de la inaltime | Cadere
+CASCADORIE | Scena periculoasa de film | Scena periculoasa
+CASCAVAL | Branza cu gauri sau galbena si tare | Branza
+CASCO | Pentru bicicletisti, protejeaza capul | Pentru bicicletisti
+CASIER | Primeste banii la casa | Primeste banii
+CASTI | Pui pe urechi ca sa asculti | Pui
+CASTILE | Se pun pe urechi pentru muzica | Se pun pe urechi
+CATALOG | Registru cu note sau lista de produse | Lista
+CATAR | Hibrid de cal si magar | Hibrid
+CATASTROFA | Nenorocire uriasa | Dezastru
+CATEDRALA | Biserica mare | Biserica mare
+CATEGORIE | Clasa | Clasa
+CATEI | Pui de caine | Pui
+CATIFEA | Material moale si pufos | Material
+CAUCAZIAN | Din Caucaz | Din Caucaz
+CAUTATA | Ceruta | Ceruta
+CAUTATOR | Cel ce gaseste | Cel ce gaseste
+CAVALERIE | Soldati calari | Soldati calari
+CAVIAR | Icre scumpe | Icre scumpe
+CAVOU | Mormant mare de familie | Mormant
+CAZAN | Vas mare pentru tuica | Vas
+CAZARE | Loc unde dormi in vacanta | Hotel
+CAZARMA | Locul unde sunt gazduiti soldatii | Locuinta militara
+CEAINIC | Vas pentru ceai | Vas pentru ceai
+CEARCAN | Umbra intunecata sub ochi | Umbra
+CELEBRA | Foarte cunoscuta | Faimoasa
+CELEBRITATE | Faima | Faima
+CELSIUS | Grad de temperatura | Grad
+CENTIMETRU | A suta parte dintr-un metru | Unitate
+CERAMICA | Obiecte din lut ars | Obiecte din lut
+CERAND | Solicitand | Solicitand
+CERCEL | Podoaba pentru ureche | Podoaba
+CERCETAS | Membru al unei organizatii de tineret | Tanar
+CERCETATOR | Studiaza stiintific | Studiaza
+CEREAM | Solicitam | Solicitam
+CEREBRALA | De creier | De creier
+CERSETOR | Cere pomana | Calic
+CERTIFICAT | Act care dovedeste ceva | Act
+CERTITUDINE | Nu mai ai nicio indoiala | Siguranta
+CERTURI | Scandaluri | Scandaluri
+CERTURILE | Scandalurile | Scandalurile
+CERURILE | Boltile de deasupra | Boltile
+CERURILOR | Ale bolti | Ale bolti
+CERUTA | Solicitata | Solicitata
+CESTI | Pentru cafea | Pentru cafea
+CETATE | Fortificatie veche | Fortareata
+CHEAG | Folosit la facerea branzei | Ferment
+CHELIE | Lipsa parului de pe cap | Lipsa parului
+CHELNERITA | Serveste la masa | Ospatarita
+CHELTUIALA | Suma platita | Suma platita
+CHELTUIE | Da banii | Da banii
+CHELTUIESC | Dau banii | Dau banii
+CHEMARE | Strigat de apel | Apel
+CHEMATA | Strigata | Strigata
+CHERESTEA | Lemn taiat in scandura | Lemn
+CHIBRIT | Il freci ca sa faci flacara | Foc
+CHICA | Parul adunat la spate | Coafura
+CHILIPIR | Afacere bun, pret mic | Afacere buna
+CHILOT | Piesa intima de imbracaminte | Lenjerie
+CHIMICALE | Substante de laborator | Substante
+CHIOR | Orb de un ochi | Cu un ochi
+CHIPS | Cartof prajit subtire | Gustare
+CHIRURGICAL | Ca la operatie | Ca la operatie
+CHISINAU | Capitala Moldovei | Capitala
+CHITANTA | Hartie care dovedeste plata | Dovada
+CHIUIT | Strigat de bucurie la joc | Strigat
+CHIULIT | Lipsit de la scoala fara motiv | Lipsit de la scoala
+CHIUVETA | Spali vasele in ea | Spalator
+CIANURA | Otrava rapida | Otrava
+CICATRICI | Urme dupa rani | Urme
+CIDRU | Bautura alcoolica din mere | Bautura
+CIFRA | Numar de la 0 la 9 | Numar
+CIMPANZEU | Maimuta inteligenta | Maimuta
+CINEMATOGRAF | Sala de filme | Sala de filme
+CINTEZOI | Pasari mici cantatoare | Pasari mici
+CIOB | Bucata de sticla sparta | Bucata de sticla
+CIOCARLIE | Pasare care canta sus pe cer | Pasare cantatoare
+CIOCNIT | Lovit unul de altul | Lovit
+CIORBA | Supa acra romaneasca | Supa
+CIORI | Pasari negre | Pasari negre
+CIORILE | Pasarile negre | Pasarile negre
+CIOROI | Cioara mare | Cioara mare
+CIOTURA | Bat vechi pentru batrani | Bat
+CIPRU | Insula din Mediterana | Insula
+CIRCULATIE | Trafic pe sosele | Trafic
+CIRES | Pom cu fructe rosii mici | Pom
+CIRESE | Fructe rosii cu codite | Fructe
+CIRESI | Pomul cu flori albe in aprilie | Pom
+CISMEA | Din ea curge apa in curte | Robinet
+CITATIE | Chemare la tribunal | Chemare
+CITIRE | Parcurgere a unui text | Parcurgere
+CITITOR | Cel care citeste | Cel care citeste
+CITRICE | Lamai si portocale | Fructe
+CIUDATENIE | Lucru neobisnuit | Curiozitate
+CIUPERCA | Creste in padure dupa ploaie | Planta
+CIURDA | Branza ciobaneasca | Branza
+CIUTURA | Galeata pentru fantana | Galeata
+CIVIC | Referitor la cetatean | Referitor la cetatean
+CIVILIZAT | Cu maniere | Manierat
+CIVILIZATA | Cu maniere | Cu maniere
+CIVILIZATIE | Cultura dezvoltata | Cultura
+CIZMA | Incaltaminte inalta | Incaltaminte inalta
+CLANDESTIN | Ascuns | Ascuns
+CLARIFIC | Lamuresc | Lamuresc
+CLARIFICAT | Lamurit | Lamurit
+CLARITATE | Limpezime | Limpezime
+CLASIFICAT | Pus in categorii | Pus in categorii
+CLAUZA | Punct dintr-un contract | Punct din contract
+CLEMENT | Bland, iertator | Bland
+CLIMA | Starea medie a vremii | Vreme
+CLIMAT | Totalitatea conditiilor de vreme | Totalitatea conditiilor
+CLINIC | Care tine de spital | Medical
+CLIPIT | Miscarea pleoapelor | Miscarea pleoapelor
+CLIPITA | Foarte scurt timp | Foarte scurt timp
+CLISEU | Expresie veche si banala | Banalitate
+CLOCOT | Apa cu bule fierbinti | Fierbere
+CLONA | Copie genetica | Copie
+CLOR | Substanta din piscine | Substanta din piscine
+CLOWN | Farsor cu nas rosu | Paiata
+COACE | Gateste in cuptor | Gateste
+COAFOR | Face pieptanaturi | Frizer
+COAFURA | Pieptanatura | Pieptanatura
+COALA | Foaie mare de hartie | Foaie
+COAPSE | Partea de sus a picioarelor | Partea de sus
+COASE | Faci cu acul | Faci cu acul
+COBAI | Animal de laborator | Animal de laborator
+COBORA | Mergea in jos | Mergea in jos
+COBORAND | Mergand in jos | Mergand in jos
+COBORARE | Mersul in jos | Mersul in jos
+COBORAREA | Scaderea | Scaderea
+COC | Coafura rasucita sau a coace | Coafura
+COCARDA | Insigna rotunda | Insigna
+COCINA | Adapost pentru porci | Adapost pentru porci
+CODRU | Padure deasa | Padure
+COFEINA | Excitant din cafea | Excitant din cafea
+COJI | Invelisuri de fructe | Invelisuri
+COLABORARE | Munca impreuna | Munca impreuna
+COLABORAT | Lucrat impreuna | Lucrat impreuna
+COLAC | Paine impletita sau inel de salvare | Paine
+COLACEI | Mici covrigei | Covrigei
+COLAPS | Prabusire | Prabusire
+COLECTA | Strangere de ajutoare | Strangere
+COLECTARE | Strangere | Strangere
+COLECTAT | Strans | Strans
+COLECTIV | Grup de oameni | Grup de oameni
+COLET | Pachet trimis prin posta | Pachet
+COLIBA | Casa mica si saraca | Casa mica
+COLIBRI | Pasare mica, cea mai mica | Pasare
+COLIND | Cantec cantat de Craciun | Cantec
+COLINDA | Se canta la usa de Craciun | Cantec
+COLIVIE | Mancare pentru pomenire | Grau
+COLIZIUNE | Ciocnire | Ciocnire
+COLORAT | Plin de culoare | Multicolor
+COLORATA | Cu multe culori | Multicolora
+COLTUC | Bucatica mica de paine | Bucata
+COMANDAMENT | Sediu de conducere militara | Sediu
+COMANDO | Grup special de soldati | Grup special
+COMBINA | Amesteci mai multe | Imbini
+COMBINAT | Amestecat | Amestecat
+COMENTARIU | Parere scrisa | Parere
+COMENTAT | Discutat | Discutat
+COMENTEZ | Imi dau cu parerea | Imi dau
+COMENZILE | Cererile | Cererile
+COMERCIALA | De negot | De negot
+COMERCIANT | Vinde si cumpara | Negustor
+COMETA | Corp ceresc cu coada | Astru cu coada
+COMISION | Procent pentru vanzator | Procent
+COMIT | Savarsesc | Savarsesc
+COMODA | Placuta | Placuta
+COMPAR | Pun alaturi | Pun alaturi
+COMPARAT | Pus fata in fata | Confruntat
+COMPATIBIL | Care se potriveste | Care se potriveste
+COMPETENT | Priceput | Priceput
+COMPETITIV | Care vrea sa castige | Care vrea sa
+COMPLETEZ | Umplu | Umplu
+COMPLEXA | Cu multe parti | Complicata
+COMPLICITATE | Intelegere secreta | Intelegere secreta
+COMPOT | Fructe fierte in sirop | Dulceata
+COMPOZITOR | Creeaza muzica | Muzician
+COMPROMITE | Strici reputatia | Strici reputatia
+COMPUNE | Creezi un cantec | Scrii
+COMPUSA | Formata din parti | Formata
+COMUNIC | Transmit | Transmit
+COMUNICAT | Anunt oficial | Anunt
+COMUNICATIE | Transmitere de informatii | Transmitere
+COMUNISTA | De ideologie rosie | De ideologie
+COMUNITAR | De obste | De obste
+CONCENTRARE | Atentie sporita | Atentie
+CONCENTRATA | Cu atentie | Cu atentie
+CONCURAT | Intrecut | Intrecut
+CONCURENT | Participant la o intrecere | Rival
+CONCURENTA | Rivalitate | Rivalitate
+CONCUREZ | Particip la intrecere | Particip
+CONCUREZE | Sa participe la intrecere | Sa participe
+CONDAMNATA | Primit pedeapsa | Pedepsita
+CONDUCTA | Teava lunga pentru gaze | Teava
+CONECTATA | Legata la retea | Legata
+CONFERA | Acorda | Acorda
+CONFESIUNE | Marturisire | Marturisire
+CONFIDENTIAL | Secret | Secret
+CONFIRMARE | Acceptare ferma | Acceptare
+CONFIRMATA | Intarita | Intarita
+CONFISCAT | Luat de autoritati | Luat
+CONFORTABILA | Placuta si comoda | Comoda
+CONFRUNT | Pun fata in fata | Infrunt
+CONFRUNTARE | Infruntare | Infruntare
+CONFUNDAT | Luat drept altceva | Incurcat
+CONGELATOR | Pastreaza alimente la minus | Aparat
+CONOPIDA | Legume alba cu inflorescente | Legume alba
+CONSECINTA | Urmare | Urmare
+CONSERVA | Mancare in cutie | Mancare in cutie
+CONSERVATOR | Care pastreaza traditia | Traditionalist
+CONSIDERABIL | Mare | Mare
+CONSIDERATA | Socotita | Socotita
+CONSOLA | Aparat de jocuri | Aparat de jocuri
+CONSOLARE | Alinare | Alinare
+CONSPIRATIE | Complot | Complot
+CONSTANTA | Oras la mare | Oras
+CONSTATAT | Observat | Observat
+CONSTITUIE | Formeaza | Formeaza
+CONSTRANS | Fortat | Fortat
+CONSTRUCTIE | Cladire | Cladire
+CONSTRUCTOR | Cel ce ridica cladiri | Cel ce ridica
+CONSTRUIESTE | Ridici o casa | Zidesti
+CONSUL | Diplomat sau magistrat roman | Diplomat
+CONSULAT | Birou diplomatic in strainatate | Birou diplomatic
+CONSULTA | Cere parere | Cere parere
+CONSULTANT | Sfatuitor profesionist | Sfatuitor
+CONSULTAT | Cerut parerea | Cerut
+CONTAGIOS | Care se ia usor | Care se ia
+CONTAINER | Cutie mare de transport | Cutie
+CONTAMINAT | Infectat | Infectat
+CONTEXT | Imprejurarile unui fapt | Cadru
+CONTINUT | Ce se afla inauntru | Ce se afla
+CONTRAST | Opozitie puternica | Opozitie
+CONTRAZIC | Spun contrariul | Dezmint
+CONTRIBUI | Ajut cu ceva | Ajut
+CONTRIBUTIE | Aport | Aport
+CONTROLATA | Verificata | Verificata
+CONTUZIE | Lovitura fara rana deschisa | Vanataie
+CONVENI | Se intelege | Se intelege
+CONVENIT | Stabilit de comun acord | Stabilit
+CONVENTIE | Intelegere oficiala | Pact
+CONVERTIT | Schimbat in alta credinta | Schimbat
+CONVINGATOR | Care te face sa crezi | Persuasiv
+CONVINGERE | Parere sigura | Credinta
+CONVOI | Sir de vehicule | Sir de vehicule
+CONVORBIRE | Discutie | Discutie
+COOPERARE | Colaborare | Colaborare
+COOPEREZ | Colaborez | Colaborez
+COPITA | Piciorul calului | Piciorul calului
+COPLESITOR | Care te sufoca de emotie | Care te sufoca
+COPOI | Caine de vanatoare | Caine de vanatoare
+CORABII | Nave cu panze | Nave cu panze
+CORAL | Animal marin cu schelet rosu | Scoica
+CORALI | Animale marine care formeaza recife | Animale marine
+CORB | Pasare neagra, simbol al ghinionului | Pasare
+CORDON | Panglica sau sir de oameni | Panglica
+CORECTAT | Indreptat | Indreptat
+CORECTEZ | Indrept | Indrept
+COREEAN | Din peninsula Asiei de Est | Asiatic
+CORESPUND | Se potrivesc | Se potrivesc
+CORIGENT | Elev care mai da o data | Elev
+CORPORALA | Pe corp | Pe corp
+CORPORATIE | Mare societate comerciala | Societate
+CORPUS | Colectie | Colectie
+CORUPTIE | Luare de mita | Luare de mita
+CORZI | Firele chitarei | Firele chitarei
+CORZILE | Firele instrumentului | Firele
+COSAR | Pazitor al fructelor din livada | Paznic
+COSAS | Sarind prin iarba, vara | Insecta
+COSCIUG | Sicriu | Sicriu
+COSMETIC | Pentru infrumusetare | Frumusete
+COSMOS | Universul | Univers
+COSTISITOR | Scump | Scump
+COSTIT | Cosit, tuns la ras | Taiat
+COSULET | Se duce cu mancare la picnic | Cos
+COTCODACI | Cantecul gainii dupa ou | Gainii
+COTITURA | Schimbare de directie | Curba
+COTLET | Carne cu os din spate | Carne
+COTOR | Partea tare a merelor | Miez
+COTROBAI | Rascoleste prin lucruri | Cauta
+COVRIG | Gustare in forma de inel | Aluat
+COZI | Randuri de asteptare | Randuri
+COZII | Al sirului de oameni | Al sirului
+COZILE | Sirurile de asteptare | Sirurile
+COZONAC | Se coace de Paste | Prajitura
+CRAMA | Pivnita cu vin | Pivnita
+CRANG | Ramura de copac | Ramura
+CRAP | Peste mare de lac | Peste
+CRAPA | Se sparge, se rupe | Se sparge
+CRAPAT | Cu fisuri | Fisurat
+CRAPATURA | Fisura | Fisura
+CRAPE | Sa se sparga | Sa se sparga
+CRATER | Gaura mare in vulcan | Gaura
+CREASTA | Parte de sus, la munte sau la cocos | Culme
+CREATIE | Opera | Opera
+CREATOR | Cel ce a facut ceva | Cel ce a facut
+CREDIBIL | De crezut | De crezut
+CREDINCIOASA | Loiala | Loiala
+CRENGI | Ramuri | Ramuri
+CRESA | Locul unde stau bebelusii | Locul unde stau
+CRESCAND | Marindu-se | Marindu-se
+CRESCUTA | Marita | Marita
+CRESTEA | Se facea mai mare | Se facea mai
+CRESTEM | Devenim mai mari | Devenim mai mari
+CRESTET | Varful capului | Varf
+CRESTINA | Credincioasa lui Hristos | Credincioasa
+CRET | Cu bucle | Ondulat
+CRETA | Se scrie pe tabla | Tabla
+CRICKET | Sport englezesc cu bata | Sport
+CRIMINALIST | Specialist in infractiuni | Specialist
+CRIPTA | Mormant subteran | Mormant
+CRIPTARE | Codare | Codare
+CRIPTAT | Scris in cod | Scris in cod
+CRITA | Truta mare | Truta
+CRITICAT | Dojenit | Dojenit
+CRIZANTEMA | Floare de toamna | Floare
+CROCODIL | Reptila mare din apa calda | Reptila
+CROIT | Taiat pentru haine | Taiat
+CROITOR | Face costume | Terzi
+CRONICA | Povestire istorica sau recenzie | Relatare
+CRONOMETRU | Masoara timpul | Ceas sportiv
+CROSA | Bat de hochei | Bat
+CROSET | Unealta pentru tricotat | Ac
+CRUCI | Semnele sfinte | Semnele sfinte
+CRUCIADA | Expeditie medievala religioasa | Expeditie medievala
+CRUCIAL | Hotarator | Hotarator
+CRUCII | Al semnului sfant | Al semnului
+CRUSTA | Strat tare la suprafata | Strat tare
+CRUT | Ocolesc de rau | Ocolesc de rau
+CRUTAT | Ferit de rau | Ferit
+CUBANEZ | Din Cuba | Din Cuba
+CUC | Pasare care canta si lasa oua in cuiburi straine | Pasare
+CUCERESC | Infrang si iau | Infrang
+CUCERIRE | Luare prin forta | Ocupare
+CUCUI | Umflatura de la lovitura | Umflatura
+CUFAR | Valiza mare | Bagaj
+CUIUL | Se bate in perete | Se bate
+CULEG | Iau de pe ramura | Iau
+CULEGE | Iei fructe din pom | Aduna
+CULMINANT | La apogeu | La apogeu
+CUMETRU | Nas de botez sau tatal ginerelui | Nas
+CUMNAT | Fratele sotului sau sotul surorii | Ruda
+CUMPARARE | Achizitie | Achizitie
+CUMPARATA | Achizitionata | Achizitionata
+CUMPARATOR | Cel ce cumpara | Client
+CUMPLITA | Teribila | Teribila
+CUNOASTERE | Stiinta | Stiinta
+CUNUNA | Se pune miresei pe cap | Coroana
+CUPOLA | Acoperis rotund la biserica | Bolta
+CUPON | Bon de reducere | Bon
+CURA | Tratament de lunga durata | Tratament
+CURATARE | Operatie de facut curat | Operatie de facut
+CURATATORIE | Loc de spalat hainele | Loc de spalat
+CURCA | Pasare mare de Craciun | Pasare
+CURCUBEU | Apare dupa ploaie, cu sapte culori | Fenomen
+CURENTA | Obisnuita | Obisnuita
+CURG | Se scurg | Se scurg
+CURIOZITATE | Dorinta de a afla | Interes
+CURMA | Fruct dulce al palmierului | Fruct
+CURMAL | Palmier | Copac
+CURTEAN | Slujitor la palat | Slujitor
+CURTI | Palate regale sau ogradele | Ograzi
+CURTOAZIE | Politete | Politete
+CUSTI | Pentru pasari | Pentru pasari
+CUSUR | Mica greseala | Defect
+CUVENIT | Care se cuvine | Care se cuvine
+CUVERTURA | Se pune peste pat | Invelitoare
+CUVIINTA | Politete | Politete
+DAIRE | Instrument cu zornaitoare, la petreceri | Instrument
+DALIA | Floare mare de toamna | Floare de toamna
+DALTA | Unealta de cioplit piatra | Unealta
+DAMASC | Tesatura fina sau oras sirian | Tesatura
+DANEZA | Limba din Copenhaga | Limba
+DARAB | Bucata de ceva | Bucata
+DARAMAT | Prabusit | Prabusit
+DARAMITE | Cu atat mai mult | Cu atat mai
+DARDA | Sulita scurta | Sulita
+DARE | Impozit | Impozit
+DARUIESC | Fac cadou | Fac cadou
+DASCAL | Invatator, in vorbirea veche | Profesor
+DATORAT | Care trebuie platit | Care trebuie platit
+DAUNA | Paguba | Paguba
+DEBARA | Camera pentru lucruri vechi | Camara
+DEBARCADER | Loc unde acosteaza vasele | Loc unde acosteaza
+DEBARCAT | Coborat de pe nava | Coborat
+DEBUT | Inceput | Start
+DEC | Prescurtare pentru decembrie | Prescurtare
+DECAPITAT | Taiat la cap | Taiat la cap
+DECISIV | Hotarator | Hotarator
+DECISIVA | Care hotaraste | Care hotaraste
+DECLIN | Scadere, decadere | Decadere
+DECOLAT | Ridicat in aer | Ridicat in aer
+DECRET | Ordin al statului | Ordin
+DECUPA | Tai cu foarfeca | Tai
+DECURG | Rezulta | Rezulta
+DEDICATA | Inchinata | Inchinata
+DEDUS | Aflat prin rationament | Aflat
+DEFECTAT | Stricat | Stricat
+DEFECTIUNE | Stricaciune | Stricaciune
+DEFENSIV | De aparare | De aparare
+DEFENSIVA | De aparare | De aparare
+DEFICIT | Lipsa de bani | Lipsa
+DEFILE | Parada | Parada
+DEFINIT | Explicat | Explicat
+DEFINITIE | Explicatia unui cuvant | Explicatia unui cuvant
+DEGENERAT | Decazut | Decazut
+DEGHIZARE | Costumare | Costumare
+DELEGAT | Trimis in numele altora | Trimis
+DELFIN | Mamifer marin jucaus | Mamifer
+DELIBERAT | Cu intentie | Intentionat
+DELIR | Stare de aiurea | Stare de aiurea
+DEMENTA | Pierdere a mintii | Pierdere a mintii
+DEMIS | Dat afara | Dat afara
+DEMISIE | Parasire voluntara a unui post | Parasire a postului
+DEMOCRAT | Adept al libertatii | Adept al libertatii
+DEMOCRATIE | Guvernare a poporului | Guvernare
+DEMODAT | Iesit din moda | Vechi
+DEMONSTRATIE | Aratare practica | Aratare
+DENS | Foarte stransi | Foarte stransi
+DENSA | Compacta | Compacta
+DENTAR | De dinti | De dinti
+DENTARA | De dinti | De dinti
+DENUMIT | Numit | Numit
+DENUNT | Reclamatie | Reclamatie
+DENUNTAT | Dat de gol | Dat de gol
+DEPASESC | Trec peste | Trec peste
+DEPASITA | Lasata in urma | Lasata in urma
+DEPENDENTA | Care nu poate fara | Legata
+DEPLASARE | Mutare | Mutare
+DEPLASAT | Nelalocul lui | Nelalocul lui
+DEPORTAT | Trimis cu forta | Trimis cu forta
+DEPOZITARE | Pastrare | Pastrare
+DEPRIMANT | Care da tristete | Trist
+DEPRIMATA | Cuprinsa de tristete | Trista
+DEPUTAT | Ales in parlament | Ales in parlament
+DERANJATA | Suparata | Suparata
+DERBY | Meci intre rivali | Meci
+DERUTAT | Pierdut | Pierdut
+DESCARC | Iau marfa jos | Iau marfa jos
+DESCARCA | Iei de pe internet | Iei de pe net
+DESCARCARE | Golire | Golire
+DESCIFRAT | Aflat sensul | Aflat sensul
+DESCOPERITI | Aflati | Aflati
+DESCRII | Spui cum e | Spui cum e
+DESENEZ | Fac o schita | Schitez
+DESFACE | Deschide | Deschide
+DESFACI | Deschizi | Deschizi
+DESFACUT | Deschis | Deschis
+DESFASOARA | Intinde sau organizeaza | Organizeaza
+DESFASURA | Organiza | Organiza
+DESIGNER | Creeaza forme si modele | Creator
+DESPARTA | Sa separe | Sa separe
+DESPARTE | Separa | Separa
+DESPARTIRE | Ruperea unei relatii | Ruptura
+DESPRINS | Rupt | Rupt
+DESTINATIE | Locul unde ajungi | Tel
+DESTRAMA | Strica sau rupe | Strica
+DESTRAMAT | Desfacut | Desfacut
+DESTRAME | Sa desfaca | Sa desfaca
+DETALIAT | Cu amanunte | Cu amanunte
+DETALIATA | Cu amanunte | Cu amanunte
+DETASAT | Indepartat | Indepartat
+DETECTOR | Aparat care gaseste | Aparat
+DETENTIE | Tinere in inchisoare | Inchisoare
+DETERIORAT | Stricat | Stricat
+DETINUTA | Prizoniera | Prizoniera
+DETONARE | Explozie | Explozie
+DETONAT | Explodat | Explodat
+DETONATOR | Declanseaza explozia | Declanseaza explozia
+DETURNAT | Schimbat de pe drum | Schimbat
+DEUNAZI | Zilele trecute | Zilele trecute
+DEVA | Oras cu o cetate pe deal | Oras
+DEVASTAT | Distrus | Distrus
+DEVASTATA | Distrusa | Distrusa
+DEVASTATOR | Distrugator | Distrugator
+DEVENIND | Ajungand | Ajungand
+DEVENIRE | Transformare | Transformare
+DEVENITI | Ajungeti | Ajungeti
+DEVIAT | Abatut | Abatut
+DEVOT | Credincios | Credincios
+DEVOTAMENT | Credinta fata de cineva | Credinta
+DEVOTATA | Credincioasa | Credincioasa
+DEZAMAGITOR | Care dezamageste | Care dezamageste
+DEZAVANTAJ | Neajuns | Neajuns
+DEZBATERE | Discutie pro si contra | Discutie
+DEZBINARE | Stricarea unirii | Ruptura
+DEZBRACE | Sa-si scoata hainele | Sa-si scoata hainele
+DEZERTOR | Soldat care fuge din armata | Soldat fugar
+DEZGUST | Scarba | Scarba
+DEZLANTUIT | Scapat din lant | Scapat
+DEZLEG | Desfac | Desfac
+DEZLEGAT | Desfacut | Desfacut
+DEZONORAT | Rusinat | Rusinat
+DEZORIENTAT | Ratacit | Ratacit
+DIAGNOSTIC | Stabilirea unei boli | Stabilire
+DIALOG | Discutie intre doi | Discutie
+DIAMETRU | Dreapta ce taie cercul prin centru | Dreapta ce taie cercul
+DIAREE | Tulburare intestinala | Tulburare
+DICTATOR | Conducator absolut | Conducator absolut
+DICTIONAR | Cuvinte cu explicatii | Carte
+DIESEL | Motor care merge cu motorina | Motorina
+DIFERENT | Altfel | Altfel
+DIFICULTATE | Greutate | Greutate
+DIFUZAT | Transmis | Transmis
+DIFUZOR | Scoate sunetul | Scoate sunetul
+DIGITALA | Cu cifre | Cu cifre
+DILEMA | Alegere grea | Alegere grea
+DIMINETII | A inceputului de zi | A diminetii
+DINADINS | Cu intentie | Cu intentie
+DINAMIC | Plin de miscare | Plin de miscare
+DINAMICA | Miscare | Miscare
+DINAPOI | In spate | Spate
+DINEU | Cina oficiala | Cina oficiala
+DINOZAUR | Reptila uriasa din trecut | Reptila
+DINTAI | Primul | Primul
+DIOXID | Compus cu doi atomi de oxigen | Compus cu oxigen
+DIPLOMAT | Reprezinta o tara in strainatate | Ambasador
+DIPLOMATIC | Cu tact | Cu tact
+DIRECTOARE | Sefa scolii | Sefa scolii
+DISCIPLINA | Ordine sau materie | Ordine
+DISCOTECA | Local cu dans si lumini | Club
+DISCRETA | Care nu se observa | Retinuta
+DISCRETIE | Tact | Tact
+DISLOCAT | Mutat din loc | Mutat din loc
+DISPAREM | Ne facem nevazuti | Ne facem nevazuti
+DISPARITIE | Pierdere a unei persoane | Pierdere a unei
+DISPRET | Lipsa de stima | Lipsa de stima
+DISPUTA | Cearta pe o tema | Cearta
+DISTANT | Rece, retras | Rece
+DISTINS | Elegant si respectat | Elegant
+DISTRAG | Atrag atentia in alta parte | Abat
+DISTRIBUI | Imparti | Imparti
+DISTRIBUIT | Impartit | Impartit
+DISTRIBUTIE | Impartire sau obiectul de actori | Impartire
+DISTRICT | Zona administrativa | Zona
+DISTRUGATOR | Care strica totul | Care strica totul
+DIVA | Cantareata celebra | Cantareata celebra
+DIVAN | Canapea fara spatar | Canapea
+DIVERSIUNE | Atragere a atentiei in alta parte | Abatere
+DIVERTISMENT | Distractie | Distractie
+DIVIZAT | Impartit | Impartit
+DIVORTATA | Despartita de sot | Despartita de sot
+DIVORTEZ | Ma despart de sot | Ma despart
+DOBANDA | Procent la un imprumut | Procent
+DOBANDIT | Obtinut | Obtinut
+DOBORAM | Punem la pamant | Punem la pamant
+DOBORATI | Pusi la pamant | Pusi la pamant
+DOCTORITA | Femeie medic | Medic
+DOCUMENTAR | Film despre realitate | Film
+DOCUMENTAT | Informat | Informat
+DOICA | Femeie care alapteaza copilul altuia | Femeie
+DOINA | Cantec popular lent | Cantec
+DOISPREZECE | Numarul lunilor anului | Numar
+DOMINAT | Stapanit | Stapanit
+DOMINO | Joc cu piese cu puncte | Joc
+DONATIE | Dar financiar | Dar
+DOP | Inchide sticla | Inchide sticla
+DORITA | Vrut | Vrut
+DORMEAU | Erau in somn | Erau in somn
+DORMIND | In stare de somn | Adormit
+DOTAT | Echipat | Echipat
+DOVEZILOR | Ale probelor | Ale probelor
+DOVLECEL | Leguma verde alungita | Leguma
+DRAC | Diavol | Diavol
+DRACIE | Pozna | Pozna
+DRAGALAS | Dragut | Dragut
+DRAM | Bucatica sau masura veche | Bucatica
+DRASTIC | Foarte sever | Foarte sever
+DREPTUNGHI | Figura cu patru laturi si unghiuri drepte | Figura
+DRESA | Invatam un animal | Invatam un animal
+DRESAT | Invatat sa asculte | Invatat sa asculte
+DROMADER | Camila cu o singura cocoasa | Animal de desert
+DRUID | Preot celt | Preot celt
+DRUMET | Calator | Calator
+DUBLEZ | Fac de doua ori | Fac de doua
+DUBLURA | Copie sau inlocuitor al unui actor | Inlocuitor
+DUCESA | Titlu nobiliar feminin | Titlu nobiliar
+DUET | Doi care canta | Pereche
+DULCEA | Zaharoasa | Zaharoasa
+DULCIURILE | Bomboane si prajituri | Bunatati
+DUMBRAVA | Padurice | Padure
+DUMNEALUI | El, cu respect | El
+DUNARE | Fluviu lung care trece prin Romania | Fluviu
+DUREROASA | Care doare | Chinuitoare
+DUSMANILOR | Ai adversarilor | Ai adversarilor
+DUSMANULUI | Al adversarului | Al adversarului
+EBRIETATE | Betie | Betie
+ECHIPAT | Dotat | Dotat
+ECHITABIL | Corect | Corect
+ECHITATIE | Calarie | Calarie
+ECLIPSA | Ascundere a unui astru | Ascundere
+ECONOMIC | Legat de banii tarii | Financiar
+ECONOMISIT | Pus deoparte | Pus deoparte
+ECUATIE | Problema de matematica cu necunoscute | Problema de mate
+EDITARE | Pregatire pentru tipar | Pregatire
+EFICACE | Care da efect | Care da efect
+EFICIENTA | Care da randament | Productiva
+EGIPTEAN | Din tara piramidelor | Din tara piramidelor
+EGOISM | Iubire de sine | Iubire de sine
+ELABORAT | Gandit cu grija | Gandit cu grija
+ELECTRONIC | Cu componente care folosesc curent | Digital
+ELIBERATA | Scoasa din captivitate | Libera
+ELICE | Se invarte la avion | Se invarte
+ELIMINARE | Scoatere | Scoatere
+ELVETIAN | Locuitor din tara ceasurilor | Din Elvetia
+EMBLEMA | Semn distinctiv | Semn distinctiv
+EMINENTA | Persoana de mare valoare | Personalitate
+EMIR | Conducator arab | Conducator arab
+EMIT | Trimit semnale | Trimit semnale
+EMOTIONALA | Sensibila | Sensibila
+EMOTIONANT | Care te misca | Miscator
+EMPATIE | Capacitatea de a simti ce simte altul | Compasiune
+ENERGETICA | Legata de energie | De energie
+ENERGIC | Plin de putere | Plin de putere
+ENGLEZESC | Din Anglia | Din Anglia
+ENIGMA | Mister | Mister
+ENTITATE | Fiinta sau organizatie | Fiinta
+ENTUZIASM | Avant | Avant
+ENTUZIAST | Plin de avant | Plin de avant
+EPIC | Grandios, despre faptele eroilor | Grandios
+EPIDEMIE | Boala raspandita | Boala
+EPISCOP | Mare preot | Arhiereu
+EPUIZATA | Fara puteri | Fara puteri
+EROINA | Femeie curajoasa | Femeie curajoasa
+EROISM | Curaj fara margini | Curaj
+EROS | Zeul iubirii | Zeul iubirii
+ESCADRILA | Grup de avioane | Grup de avioane
+ESENTIALA | Foarte importanta | Vitala
+ESTIC | Dinspre rasarit | Dinspre rasarit
+ESTIMARE | Calcul aproximativ | Calcul aproximativ
+ESTIMAT | Socotit aproximativ | Apreciat
+ETER | Spatiu sau substanta | Spatiu
+EUL | Sinele | Sinele
+EUROPEAN | Locuitor al batranului continent | Locuitor
+EVADEZ | Scap din inchisoare | Scap din inchisoare
+EVALUAT | Apreciat | Apreciat
+EVAPORAT | Transformat in vapori | Transformat in vapori
+EVAZIV | Care ocoleste raspunsul | Care ocoleste
+EVOLUTIE | Dezvoltare in timp | Progres
+EVREIASCA | De evrei | De evrei
+EVREICA | Femeie de religie mozaica | Femeie
+EVREIESC | Legat de poporul lui Moise | De evrei
+EXACTITATE | Precizie | Precizie
+EXAGERATA | Peste masura | Peste masura
+EXAGEREZ | Maresc peste masura | Maresc
+EXAMINARE | Verificare | Verificare
+EXAMINEZ | Cercetez | Cercetez
+EXCENTRIC | Ciudat si original | Ciudat
+EXCEPTIONAL | Rar si deosebit | Deosebit
+EXCESIV | Peste masura | Peste masura
+EXCITANT | Palpitant | Palpitant
+EXCITATA | Agitata | Agitata
+EXECUT | Fac | Fac
+EXEMPLE | Modele | Modele
+EXILAT | Trimis in afara tarii | Surghiunit
+EXMATRICULAT | Dat afara din scoala | Dat afara
+EXOTIC | Din tari indepartate | Rar
+EXPANSIUNE | Extindere | Extindere
+EXPEDIAT | Trimis | Trimis
+EXPEDITIE | Calatorie spre locuri indepartate | Calatorie
+EXPERIMENTAL | De proba | De proba
+EXPERIMENTAT | Cu multa practica | Rutinat
+EXPERTA | Specialista | Specialista
+EXPERTIZA | Evaluare facuta de specialist | Evaluare
+EXPLICIT | Spus pe fata | Clar
+EXPLORARE | Cercetare a unor locuri noi | Cercetare
+EXPLORAT | Cercetat | Cercetat
+EXPLOZIBIL | Care poate exploda | Exploziv
+EXPLOZIV | Care poate exploda | Care poate exploda
+EXPOZITIE | Obiecte aratate publicului | Salon
+EXPRES | Rapid | Rapid
+EXPRIMARE | Mod de a spune | Mod
+EXPUNERE | Aratare | Aratare
+EXTAZ | Bucurie imensa | Bucurie imensa
+EXTENUAT | Sleit de puteri | Epuizat
+EXTERIOARA | De afara | De afara
+EXTERN | Din afara | Din afara
+EXTERNA | Din afara | Din afara
+EXTERNAT | Eliberat din spital | Eliberat din spital
+EXTIND | Maresc | Maresc
+EXTINDEM | Largim | Largim
+EXTINSA | Marita | Marita
+EXTINSE | Largite | Largite
+EXTRACTIE | Scoatere | Scoatere
+EXTRAG | Scot | Scot
+EXTRAGE | Scoate | Scoate
+EZIT | Nu ma hotarasc | Nu ma hotarasc
+EZITARE | Clipa de indoiala | Indoiala
+FABRICAT | Produs | Produs
+FABULOASA | Minunata | Minunata
+FACIAL | De la fata | De la fata
+FACU | Realiza | Realiza
+FAIMOASA | Celebra | Celebra
+FALCA | Osul gurii | Osul gurii
+FALCI | Oasele gurii | Oasele gurii
+FALCILE | Oasele gurii | Oasele gurii
+FALSIFICAT | Nereal | Contrafacut
+FAMILIARA | Cunoscuta | Cunoscuta
+FAMILIARIZAT | Obisnuit | Obisnuit
+FANATIC | Orb in credinta | Extremist
+FANTE | Tanar elegant | Tanar elegant
+FARAMA | Bucatica foarte mica | Firimitura
+FARAON | Rege al Egiptului antic | Rege egiptean
+FASCINAT | Vrajit | Vrajit
+FASCIST | Adept al unei ideologii extremiste | Adept
+FASOLEA | Boabele din ciorba | Boabele
+FAVORABIL | Prielnic | Prielnic
+FELICITARE | Urare pe carton | Urare
+FEMININA | De femeie | De femeie
+FENOMENAL | Extraordinar | Grozav
+FERESC | Apar | Apar
+FERIBOT | Nava ce trece masini peste apa | Nava
+FERMECAT | Vrajit | Vrajit
+FERMECATA | Vrajita | Vrajita
+FERMOAR | Inchide haina sau geanta | Inchide haina
+FERTIL | Roditor | Roditor
+FERTILITATE | Capacitate de a rodi | Capacitate
+FESTIN | Ospat mare | Ospat
+FIARBA | Sa clocoteasca | Sa clocoteasca
+FIARTA | Gatita in apa | Gatita
+FIASCO | Esec total | Esec
+FIBRA | Fir, din care se face stofa | Fir
+FICTIUNE | Povestire inventata | Poveste
+FIDELA | Credincioasa | Credincioasa
+FIERB | Clocotesc | Clocotesc
+FIERBINTI | Foarte calde | Arzatoare
+FIERTE | Gatite in apa | Gatite
+FILAJ | Urmarire in secret | Urmarire
+FILDES | Material alb din colti de elefant | Material alb
+FILE | Pagini | Pagini
+FILOSOFIE | Gandire despre sensul vietii | Gandire despre sensul
+FILOZOF | Ganditor | Ganditor
+FILOZOFIE | Gandire despre existenta | Gandire
+FINALIZAT | Terminat | Terminat
+FINANTAT | Sustinut cu bani | Sustinut cu bani
+FIOLA | Sticluta cu medicament | Sticluta
+FIOR | Tremur de frica | Tremur
+FIOROS | Infricosator | Infricosator
+FISC | Institutia care strange taxele | Institutia
+FISCAL | De taxe | De taxe
+FISCALA | De taxe | De taxe
+FISURA | Crapatura mica | Crapatura
+FITNESS | Sport la sala | Sport la sala
+FIXARE | Prindere | Prindere
+FIXATA | Prinsa bine | Prinsa bine
+FIXEZ | Prind bine | Prind bine
+FIZICIAN | Specialist in fizica | Savant
+FLACARILE | Focul vazut | Focul
+FLACAU | Tanar neinsurat | Tanar
+FLACON | Sticluta mica | Sticluta
+FLAGRANT | Evident | Evident
+FLAMINGO | Pasare roz, cu picioare lungi | Pasare roz
+FLAUT | Instrument de suflat | Instrument de suflat
+FLEAC | Lucru de nimic | Nimic
+FLEXIBIL | Se indoaie usor | Se indoaie usor
+FLIRT | Cochetarie | Cochetarie
+FLIRTAT | Cochetat | Cochetat
+FLUENT | Curgator | Curgator
+FLUID | Lichid | Lichid
+FLUIERAT | Suierat | Suierat
+FOAMEI | A nevoii de mancare | A nevoii
+FOAMETE | Lipsa mare de hrana | Lipsa mare
+FOAMETEA | Lipsa de mancare | Lipsa de mancare
+FOARFECA | Taie hartie | Taie hartie
+FOCA | Mamifer marin cu mustati | Mamifer marin
+FOCAR | Loc unde izbucneste ceva | Centru
+FOCOS | Plin de foc | Plin de foc
+FOCUS | Concentrare | Concentrare
+FOILE | Paginile | Paginile
+FOLIE | Pelicula subtire | Pelicula
+FOLK | Muzica la chitara | Muzica la chitara
+FONDAT | Infiintat | Infiintat
+FONDATOR | Cel care a infiintat | Cel
+FORAJ | Sapatura adanca pentru petrol | Sapatura adanca
+FORMAL | Oficial | Oficial
+FORMALA | Oficiala | Oficiala
+FORMALITATE | Cerinta oficiala | Cerinta oficiala
+FORMATA | Alcatuita | Alcatuita
+FORMEZ | Alcatuiesc | Alcatuiesc
+FORMIDABIL | Extraordinar | Extraordinar
+FORMULARE | Exprimare | Exprimare
+FORTAREATA | Cetate puternica | Cetate
+FORUM | Loc de discutii pe internet | Loc de discutii
+FOTBALIST | Joaca fotbal | Joaca fotbal
+FOTOLIU | Scaun moale cu brate | Scaun moale
+FRAC | Costum elegant cu cozi | Costum de gala
+FRAGEDA | Tanara | Tanara
+FRAGILE | Usor de spart | Usor de spart
+FRAGMENT | Bucata | Bucata
+FRAIELE | Curelele cu care conduci calul | Curelele calului
+FRANC | Moneda elvetiana | Moneda elvetiana
+FRANE | Opresc masina | Opresc masina
+FRANELE | Opresc vehiculul | Opresc vehiculul
+FRANG | Rup | Rup
+FRANTUZESC | Din Franta | Din Franta
+FRANZELA | Paine lunga | Paine alba
+FREACA | Rascoleste | Frictioneaza
+FREC | Curat prin frecare | Curat
+FRECARE | Atingere repetata | Atingere repetata
+FRECVENTA | Cat de des | Repetitie
+FREZA | Unealta rotativa de taiat | Unealta
+FRIPT | Gatit la foc | Gatit la foc
+FRIZER | Tunde | Tunde
+FRIZERIE | Salon de tuns barbati | Salon de tuns
+FRONTAL | Din fata | Din fata
+FRUMUSEL | Destul de dragut | Destul de dragut
+FRUMUSETII | A farmecului | Ale farmecului
+FRUMUSICA | Draguta | Draguta
+FRUNZA | Parte verde a copacului | Parte verde
+FRUSTRANT | Care enerveaza | Enervant
+FRUSTRAT | Nemultumit si amarat | Nemultumit
+FUGARA | Care fuge | Care fuge
+FUGEAM | Alergam | Alergam
+FULG | Fir de zapada | Fir de zapada
+FUMURI | Nori de fum | Fum
+FUNCTIONAL | Care merge bine | Care merge
+FUNCTIONAR | Lucreaza la un birou public | Angajat
+FUNCTIUNE | Rolul unui lucru | Rol
+FUNDAMENTAL | De baza | De baza
+FUNDAS | Jucator in aparare | Jucator in aparare
+FUNDATIE | Temelia sau organizatie | Temelia
+FUNDATURA | Strada fara iesire | Strada inchisa
+FUNERALII | Inmormantare | Inmormantare
+FUNERALIILE | Inmormantarea | Inmormantarea
+FUNERARA | De inmormantare | De inmormantare
+FURCA | Unealta cu coarne | Unealta
+FURCULITA | Tacam cu mai multe dinti | Tacam
+FURISEZ | Intru pe nesimtite | Intru pe nesimtite
+FURNICA | Insecta harnica | Insecta harnica
+FURNIZOR | Cel care aduce marfa | Aprovizionator
+FURTUN | Teava flexibila pentru apa | Teava flexibila
+FURTUNILE | Vijeliile | Vijeliile
+FUS | Unealta pentru tors | Unealta pentru tors
+FUZIUNE | Contopire | Contopire
+GADGET | Aparat mic si inteligent | Aparat mic
+GADILA | Faci sa rada ating usor | Atingere usoara
+GAFA | Greseala jenanta | Greseala
+GAITA | Pasare albastra, hotomana | Pasare
+GAJ | Garantie | Garantie
+GALA | Spectacol festiv | Spectacol
+GALANT | Cavaleresc | Cavaleresc
+GALOP | Cea mai rapida mers a calului | Fuga calului
+GANG | Banda de infractori | Banda
+GARDEROBA | Dulap de haine | Dulap de haine
+GARNIZOANA | Trupa dintr-un oras | Trupa
+GARZII | Al paznicilor | Al paznicilor
+GASTE | Pasari de curte care ganganesc | Pasari de curte
+GASTI | Grupuri de prieteni | Grupuri
+GAZARE | Otravire cu gaz | Otravire cu gaz
+GAZON | Iarba tunsa, ca pe stadion | Iarba
+GEAMAN | Frate nascut in acelasi timp | Frate
+GEME | Scoate sunete de durere | Scoate sunete
+GENERAT | Produs | Produs
+GENERATOR | Produce curent | Dinam
+GENEROZITATE | Darnicie | Darnicie
+GENOCID | Exterminare a unui popor | Exterminare
+GENTIL | Amabil | Amabil
+GENTILE | Poseta si rucsacul | Poseta si rucsacul
+GHEARA | Unghia ascutita a fiarei | Unghie de fiara
+GHEM | Sfoara strinsa in forma de minge | Minge de ata
+GHEMUIT | Strans ghem | Strans ghem
+GHETE | Incaltaminte pentru iarna | Incaltaminte
+GHETELE | Incaltaminte inalta | Incaltaminte
+GHICITOARE | Enigma de dezlegat | Enigma
+GHIDARE | Calauzire | Calauzire
+GHIDAT | Calauzit | Calauzit
+GHIMBIR | Radacina iute | Radacina iute
+GHIMPATA | Plina de epi | Plina de epi
+GHIMPE | Epi de trandafir | Epi
+GHINIONIST | Cu noroc prost | Cu noroc prost
+GIGANTIC | Urias | Urias
+GINECOLOG | Medic pentru femei | Medic pentru femei
+GINERE | Sotul fiicei | Sotul fiicei
+GLAS | Voce | Voce
+GLAZURA | Stratul dulce de pe tort | Stratul dulce
+GLOATA | Multime agitata | Multime agitata
+GLORIOASA | Plina de slava | Slavita
+GLORIOS | Plin de slava | Plin de slava
+GLUGA | Parte a hainei care acopera capul | Parte a hainei
+GLUMET | Hazliu | Hazliu
+GLUTEN | Proteina din grau | Proteina din grau
+GOANA | Alergare dupa ceva | Alergare
+GOGOASA | Prajitura rotunda cu gaura | Prajitura
+GOLESC | Scot tot | Scot tot
+GOLI | Scoti tot | Scoti tot
+GOLIAT | Uriasul din povestea cu David | Urias
+GOLURI | Spatii goale | Spatii goale
+GONG | Instrument de percutie din metal | Instrument
+GONIT | Alungat | Alungat
+GORILA | Maimuta uriasa | Maimuta uriasa
+GRABITA | In graba | In graba
+GRADINAR | Ingrijeste plantele | Cultivator
+GRADINITA | Unde merg copiii mici | Scoala mica
+GRAMEZI | Multimi de lucruri | Multimi
+GRANDIOS | Maret | Maret
+GRANE | Cereale | Cereale
+GRANIT | Roca foarte dura | Roca dura
+GRAUL | Cereala pentru faina | Cereala
+GRAVAT | Sapat in metal | Sapat
+GRAVITATIE | Forta care ne tine pe pamant | Forta
+GRECESC | Din Grecia | Din Grecia
+GRECI | Poporul lui Zeus | Poporul lui Zeus
+GREIER | Canta vara in iarba | Insecta cantatoare
+GRILA | Tabel de verificare sau gratar | Tabel
+GROPI | Sapaturi adanci | Sapaturi
+GROSOLAN | Necioplit | Necioplit
+GROTA | Pestera | Pestera
+GRUPARE | Grup | Grup
+GUIT | Tipat ascutit | Tipat ascutit
+GUSTOASA | Buna la gust | Savuroasa
+HAIDEM | Sa mergem | Sa mergem
+HAIOASA | Amuzanta | Vesela
+HALAL | Bravo, spus popular | Bravo
+HALBA | Pahar mare de bere | Pahar mare
+HAMBURGER | Sandvis cu carne tocata | Sandvis
+HAMSTER | Rozator mic de casa | Rozator
+HANDICAP | Dezavantaj fizic | Dezavantaj
+HANDICAPAT | Cu o dizabilitate | Cu o dizabilitate
+HANG | Instrument de percutie cu forma de farfurie | Instrument de percutie
+HANGAR | Garaj pentru avioane | Garaj de avioane
+HANORAC | Bluza cu gluga | Bluza cu gluga
+HAOTIC | Dezordonat | Dezordonat
+HAREM | Camera sotiilor la un sultan | Camera sotiilor
+HARTILE | Planurile tinuturilor | Planurile
+HARTUIT | Deranjat | Deranjat
+HAZARD | Intamplare | Intamplare
+HAZLIU | Amuzant | Amuzant
+HELIU | Gaz usor din baloane | Gaz usor
+HERNIE | Iesirea unui organ din locul sau | Boala
+HERPES | Basica pe buza | Basica pe buza
+HIBRID | Mixt | Mixt
+HIDOS | Foarte urat | Foarte urat
+HIPNOZA | Stare de somn provocat | Stare de somn
+HOINAR | Care umbla fara scop | Care umbla fara
+HOLBEZ | Privesc cu ochii mari | Privesc
+HOTARASC | Decid | Decid
+HOTARASCA | Sa decida | Sa decida
+HOTARASTI | Stabilesti | Alegi
+HRANIRE | Alimentatie | Alimentatie
+IAPA | Femela calului | Femela calului
+IARA | Din nou | Din nou
+IDENTIC | Absolut la fel | La fel
+IDENTIFIC | Recunosc | Recunosc
+IEPURII | Animalele cu urechi lungi | Animalele cu urechi
+IERBURI | Verdeata | Verdeata
+IERTAM | Nu mai purtam ranchiuna | Nu mai purtam
+IESEAU | Plecau afara | Plecau afara
+IESITA | Plecata afara | Plecata afara
+IGIENA | Curatenie corporala | Curatenie
+IGNORANT | Care nu stie | Nestiutor
+IILE | Camasile populare brodate | Camasi populare
+ILUMINAT | Luminat | Luminat
+IMAGINAR | Inchipuit | Inchipuit
+IMAGINARA | Inchipuita | Inchipuita
+IMAGINATIE | Capacitatea de a inventa lumi | Fantezie
+IMATUR | Nefacut, necopt | Necopt
+IMBARCARE | Urcare pe nava | Urcare
+IMBATRANIT | Devenit batran | Batranit
+IMBETI | Faci sa fie beat | Faci sa fie
+IMBRACAM | Punem haine pe noi | Punem haine
+IMBRACAMINTE | Haine | Haine
+IMBRATISARE | Prinderea in brate | Prinderea in brate
+IMBRATISAT | Strans in brate | Strans in brate
+IMBUNATATIRE | Facerea unui lucru mai bun | Progres
+IMBUNATATIT | Facut mai bun | Facut mai bun
+IMIGRANT | Cel ce se stabileste in alta tara | Venetic
+IMINENT | Gata sa se intample | Apropiat
+IMINENTA | Gata sa vina | Gata sa vina
+IMIT | Copiez | Copiez
+IMITATOR | Cel care copiaza | Cel care copiaza
+IMN | Cantec solemn | Cantec solemn
+IMOBILIARA | Legata de case si terenuri | Legata de case
+IMORAL | Fara morala | Fara morala
+IMPACE | Sa faca pace | Sa faca pace
+IMPACHETEZ | Pun in ambalaj | Pun in ambalaj
+IMPACI | Faci pace | Faci pace
+IMPARATEASA | Sotia imparatului | Sotia imparatului
+IMPARTITI | Distribuiti | Distribuiti
+IMPECABIL | Fara cusur | Fara cusur
+IMPERIALA | De imperiu | De imperiu
+IMPLANT | Piesa pusa in corp | Piesa pusa
+IMPLANTAT | Introdus in corp | Introdus in corp
+IMPLICARE | Participare activa | Participare
+IMPLINESC | Ajung la o varsta | Duc la capat
+IMPORT | Aducere de marfa din alta tara | Aducere de marfa
+IMPOSTOR | Cel care se da drept altul | Farsor
+IMPOTENT | Fara putere | Fara putere
+IMPOZIT | Taxa platita statului | Taxa
+IMPRASTIA | Risipea | Risipea
+IMPRASTIAT | Risipit | Risipit
+IMPRASTIE | Risipeste | Risipeste
+IMPRASTII | Risipesti | Risipesti
+IMPREJUR | In jurul | Pe langa
+IMPREVIZIBIL | Care nu poate fi prevazut | Neprevazut
+IMPRIETENIT | Devenit prieten | Devenit prieten
+IMPROBABIL | Putin sanse | Putin sanse
+IMPROVIZAT | Facut pe loc | Facut pe loc
+IMPULSIV | Care actioneaza fara sa gandeasca | Care actioneaza fara
+IMPUN | Silesc sa se accepte | Silesc
+IMPUS | Silit | Silit
+IMPUSCARE | Tragere cu arma | Tragere cu arma
+IMPUSCATURA | Zgomot de arma | Foc
+IMUNITAR | Care apara organismul | De aparare
+INACCEPTABIL | Care nu poate fi primit | Intolerabil
+INAINTAT | Mers in fata | Mers in fata
+INALTAT | Ridicat | Ridicat
+INALTI | Care ajung departe cu capul | Zvelti
+INAPOIAT | Intors | Intors
+INCAIERARE | Bataie | Bataie
+INCALCARE | Nerespectare | Nerespectare
+INCALCE | Sa nu respecte | Sa nu respecte
+INCALZIRE | Pregatire inainte de sport | Pregatire
+INCALZIT | Facut cald | Cald
+INCANTARE | Bucurie mare | Bucurie mare
+INCAP | Am loc | Am loc
+INCAPA | Are loc | Are loc
+INCAPABIL | Neputincios | Neputincios
+INCAPATANAT | Greu de convins | Tentos
+INCARC | Pun marfa | Pun marfa
+INCARCAM | Punem povara | Punem povara
+INCARCARE | Umplere | Umplere
+INCARCATURA | Marfa dusa | Marfa
+INCARCI | Pui povara | Pui povara
+INCASEZ | Primesc bani | Primesc bani
+INCATUSAT | Legat cu catuse | Legat
+INCENDIAT | Pus pe foc | Pus pe foc
+INCENDIERE | Aprindere cu intentie | Dat foc
+INCEPATOR | Cel de la prima incercare | Novice
+INCETARE | Oprire | Oprire
+INCETEZ | Ma opresc | Ma opresc
+INCETINESC | Reduc viteza | Reduc viteza
+INCHEIATA | Terminata | Terminata
+INCHEIERE | Final | Final
+INCHEIETURA | Locul dintre mana si brat | Locul dintre mana
+INCHIN | Ma rog | Ma rog
+INCHIRIATA | Luata cu chirie | Luata cu chirie
+INCINERAT | Ars pana la cenusa | Ars
+INCINTA | Spatiu inchis | Spatiu inchis
+INCITANT | Care trezeste interes | Palpitant
+INCIZIE | Taietura chirurgicala | Taietura
+INCLIN | Aplec | Aplec
+INCLINAT | Lasat intr-o parte | Lasat intr-o parte
+INCOMPETENT | Fara pricepere | Fara pricepere
+INCONJURATI | Incercuiti | Incercuiti
+INCONJURATOR | Care se afla in jur | Care se afla
+INCORDAT | Intins | Intins
+INCORDATA | Intinsa | Intinsa
+INCORECT | Gresit | Gresit
+INCREDE | Se bazeaza | Se bazeaza
+INCREDINTAT | Dat in grija | Dat in grija
+INCREZUT | Plin de sine | Plin de sine
+INCUIETOARE | Mecanism de inchis | Mecanism de inchis
+INCULPAT | Cel acuzat in instanta | Cel acuzat
+INCURAJARE | Imbarbatare | Imbarbatare
+INCURAJAT | Imbarbatat | Imbarbatat
+INCURAJEZ | Imbarbatez | Imbarbatez
+INCURC | Fac un amestec | Fac un amestec
+INCURCATURA | Situatie neclara | Bucluc
+INDATORAT | Plin de datorii | Plin de datorii
+INDECENT | Necuviincios | Necuviincios
+INDEMANARE | Dibacie | Dibacie
+INDEPARTATA | Departe | Departe
+INDEPARTEZ | Dau la o parte | Dau
+INDEPENDENT | Liber | Liber
+INDEPENDENTA | Libera | Libera
+INDICATOR | Panou care arata directia | Panou
+INDICE | Semn sau numar | Semn
+INDIGO | Nuanta de albastru inchis | Nuanta de albastru
+INDIRECT | Nu direct | Nu direct
+INDIVIDUAL | Pentru o singura persoana | Pentru unul
+INDIVIDUALA | Pentru o persoana | Pentru o persoana
+INDOAIE | Face curba | Face curba
+INDRAZNET | Curajos | Curajos
+INDRUMARE | Ghidaj | Ghidaj
+INDRUMAT | Calauzit | Calauzit
+INDUR | Suport | Suport
+INDURARE | Mila | Mila
+INDUS | Provocat | Provocat
+INDUSTRIAL | Legat de fabrici | De fabrici
+INDUSTRIE | Producere in fabrici | Productie
+INEACA | Scufunda | Scufunda
+INEVITABILA | Care nu poate fi evitata | Care nu poate
+INFANTERIE | Soldati pe jos | Soldati pe jos
+INFASURAT | Invelit | Invelit
+INFATISARE | Aspect | Aspect
+INFERIOARA | Mai jos | Mai jos
+INFIG | Bag adanc | Bag adanc
+INFINITA | Fara capat | Fara capat
+INFIORATOR | Care da fiori | Cumplit
+INFIRM | Cu un handicap | Cu un handicap
+INFIRMIERA | Ajuta bolnavii | Asistenta
+INFLAMAT | Umflat si rosu | Umflat
+INFLORIT | Cu flori | Cu flori
+INFOMETAT | Sleit de foame | Flamand
+INFORMARE | Aducere la cunostinta | Anunt
+INFORMATA | Pusa la curent | Pusa la curent
+INFRANGERE | Pierdere | Pierdere
+INFUNDAT | Blocat | Blocat
+INFURIE | Face furios | Face furios
+INFURII | Enervezi tare | Enervezi tare
+INGENIOS | Foarte inventiv | Iscusit
+INGHESUIT | Strans | Strans
+INGHET | Frig mare | Frig mare
+INGHITA | Sa treaca prin gat | Sa inghita
+INGHITITURA | Cat bei dintr-odata | Sorb
+INGINERIE | Stiinta tehnica | Stiinta
+INGRASAT | Devenit gras | Devenit gras
+INGRIJESC | Am grija | Am grija
+INGRIJITOR | Cel ce ingrijeste | Cel ce ingrijeste
+INGRIJORARE | Griji | Neliniste
+INGROAPA | Pune sub pamant | Pune sub pamant
+INGUST | Opusul lui lat | Stramt
+INGUSTA | Subtire | Subtire
+INHALAT | Tras pe nas | Tras pe nas
+INIMILOR | Ale organelor din piept | Ale organelor
+INITIALA | Prima litera | Litera
+INITIAT | Pornit | Pornit
+INITIATIVA | Primul pas | Primul pas
+INITIERE | Introducere intr-un domeniu | Introducere
+INITIEZ | Incep | Incep
+INJECTAT | Introdus cu acul | Introdus
+INLATURAT | Dat la o parte | Scos
+INLOCUIESC | Pun altceva in loc | Schimb
+INLOCUITOR | Cel care ia locul altuia | Suplinitor
+INMOAIE | Face moale | Face moale
+INMOI | Fac moale | Fac moale
+INMUIAT | Facut moale | Facut moale
+INNASCUT | Din nastere | Din nastere
+INNEBUNITA | Scoasa din minti | Scoasa din minti
+INOCENTA | Nevinovata | Nevinovata
+INOFENSIV | Fara pericol | Nevatamator
+INS | Individ, ironic | Individ
+INSALA | Pacaleste | Pacaleste
+INSECTA | Animal mic cu sase picioare | Gaza
+INSELACIUNE | Pacaleala | Dolul
+INSELATORIE | Pacaleala | Pacaleala
+INSELE | Sa pacaleasca | Sa pacaleasca
+INSEMN | Semn | Semn
+INSENSIBIL | Fara sentimente | Fara sentimente
+INSETAT | Cu sete | Cu sete
+INSOARA | Cauta mireasa | Cauta mireasa
+INSOMNIE | Imposibilitatea de a dormi | Lipsa somnului
+INSORITA | Plina de soare | Plina de soare
+INSOTIT | Cu cineva alaturi | Cu cineva
+INSPECTIE | Control | Control
+INSPIRATA | Plina de idei | Plina de idei
+INSPIRATIE | Imbold creator | Idee
+INSTALATOR | Repara conductele | Meserias
+INSTALEZ | Montez | Montez
+INSTANT | Pe loc | Pe loc
+INSTANTANEU | Pe loc | Imediat
+INSTITUTIE | Organizatie | Organizatie
+INSTRUCTIE | Pregatire | Pregatire
+INSTRUCTOR | Cel care invata | Cel care invata
+INSTRUIRE | Educatie | Educatie
+INSULINA | Hormon pentru diabet | Hormon
+INSULT | Jignesc | Jignesc
+INSUPORTABIL | Imposibil de suportat | Imposibil de suportat
+INTACTA | Neatinsa | Neatinsa
+INTAIA | Prima | Prima
+INTAMPLATOR | Fara intentie | Din intamplare
+INTARIT | Facut mai tare | Facut mai tare
+INTEGRAL | In intregime | In intregime
+INTEGRITATE | Cinste desavarsita | Cinste
+INTELEAPTA | Cu multa minte | Intelepta
+INTELECTUAL | Om cu studii | Om cu studii
+INTELEGATOR | Care intelege | Care intelege
+INTELEPCIUNE | Pricepere de viata | Pricepere de viata
+INTELEPTI | Priceputi la viata | Priceputi
+INTENSITATE | Putere | Putere
+INTENSIVA | Foarte stransa | Accelerata
+INTEPENIT | Blocat | Blocat
+INTERESEZ | Atrag atentia | Atrag atentia
+INTERIOARA | Dinauntru | Dinauntru
+INTERMEDIAR | Cel dintre doua parti | Cel dintre doua
+INTERNATA | Dusa la spital | Dusa la spital
+INTEROGARE | Intrebare oficiala | Intrebare oficiala
+INTERPRETARE | Explicatie sau joc actoricesc | Explicatie
+INTERPRETAT | Jucat sau explicat | Jucat
+INTERPRETEZ | Explic sau joc un rol | Explic
+INTERSECTIE | Locul unde se intalnesc drumurile | Locul unde se
+INTERVAL | Distanta in timp | Pauza
+INTERVENI | Te bagi in sfat | Te amesteci
+INTERVIEVAT | Intrebat de reporter | Intrebat de reporter
+INTESTIN | Organ lung din burta | Organ lung
+INTIMIDAT | Speriat | Speriat
+INTINDERE | Suprafata | Suprafata
+INTOARSA | Venita inapoi | Venita inapoi
+INTOCMIT | Redactat | Redactat
+INTORSATURA | Schimbare brusca | Cotitura
+INTREBAI | Cereai raspuns | Cereai raspuns
+INTREC | Depasesc | Depasesc
+INTRECERE | Competitie | Competitie
+INTRERUPERE | Oprire | Oprire
+INTRERUPTA | Oprita | Oprita
+INTRETINERE | Ingrijire a unui lucru | Mentenanta
+INTRETINUT | Ingrijit | Ingrijit
+INTRIGA | Complot | Complot
+INTRIGAT | Cuprins de curiozitate | Cuprins
+INTRISTAT | Facut trist | Facut trist
+INTRODUC | Bag inauntru | Bag
+INTRODUCERE | Inceput de carte | Inceput
+INTUITIE | Presimtire | Presimtire
+INUMAN | Crud, fara omenie | Crud
+INUNDAT | Acoperit de ape | Acoperit de ape
+INVALID | Persoana cu dizabilitati sau nevalabil | Persoana cu handicap
+INVARTA | Sa roteasca | Sa roteasca
+INVARTI | Rotesti | Rotesti
+INVARTIM | Rotim | Rotim
+INVARTIT | Rotit | Rotit
+INVATATA | Intelepta | Intelepta
+INVECHIT | Depasit | Depasit
+INVENTAR | Lista de bunuri | Lista de bunuri
+INVENTEZ | Creez ceva nou | Creez
+INVENTIE | Lucru nou creat | Inovatie
+INVERSAT | Pus pe dos | Pus pe dos
+INVESTIGAT | Cercetat | Cercetat
+INVESTIGATIE | Cercetare | Ancheta
+INVESTIGATOR | Cel ce cerceteaza | Cel ce cerceteaza
+INVESTITIE | Plasament de bani | Plasament
+INVESTITOR | Cel ce pune bani in afaceri | Cel ce pune bani
+INVIA | Se intoarce la viata | Se intoarce
+INVIDIE | Ranchiuna pentru reusita altuia | Gelozie
+INVIDIOS | Care rivneste ce are altul | Care rivneste
+INVIE | Se intoarce la viata | Reinvie
+INVINCIBIL | Care nu poate fi invins | Care nu poate
+INVINGATOR | Castigator | Castigator
+INVINUIESC | Dau vina | Dau vina
+INVOC | Chem | Chem
+IOD | Element chimic pentru rani | Element chimic
+IPOCRIT | Fatarnic | Fatarnic
+IPOTECA | Garantie imobiliara | Garantie
+IPOTEZA | Presupunere stiintifica | Presupunere
+IRATIONAL | Fara logica | Fara logica
+IREAL | Care nu exista | Care nu exista
+IRESPONSABIL | Fara simt al raspunderii | Neserios
+IREZISTIBIL | Imposibil de refuzat | Imposibil de refuzat
+IRITA | Enerveaza | Enerveaza
+IRITANT | Care enerveaza | Care enerveaza
+IRITAT | Enervat | Enervat
+IRLANDEZA | Din Irlanda | Din Irlanda
+IROSESC | Risipesc | Risipesc
+ISLAM | Religia musulmanilor | Religia
+ISPASIT | Platit prin pedeapsa | Platit
+ISPITA | Tentatie | Tentatie
+ISTERIC | Cu crize de nervi | Cu crize
+ISTERIE | Criza de nervi | Criza de nervi
+IVIT | Aparut | Aparut
+IZBIT | Lovit | Lovit
+IZGONIT | Alungat | Alungat
+JAGUAR | Felina din America de Sud | Felina
+JALE | Durere mare | Durere mare
+JANDARM | Pazitor al ordinii | Pazitor al ordinii
+JELESC | Plang un mort | Plang un mort
+JENANTA | Rusinoasa | Rusinoasa
+JENATA | Rusinata | Rusinata
+JIGNITOR | Care ofenseaza | Care ofenseaza
+JOGGING | Alergare usoara | Alergare usoara
+JUCAI | Te-ai distrat | Te-ai distrat
+JUCATOARE | Fata care joaca | Fata care joaca
+JUDECATII | Al procesului | Al procesului
+JUDECATORESC | De tribunal | De tribunal
+JUDICIAR | De justitie | De justitie
+JUDICIARA | De justitie | De justitie
+JURIDIC | De lege | Legal
+JURNALISM | Meseria de reporter | Meseria de reporter
+KILOGRAM | Mie de grame | Unitate
+KILOMETRU | Mie de metri | Unitate
+LACAT | Se pune pe usa si se descuie cu cheie | Incuietoare
+LACHEU | Servitor umil | Servitor
+LACOMIE | Pofta nestapanita | Pofta nestapanita
+LACRIMA | Picatura din ochi | Plans
+LACTEE | Din lapte | Din lapte
+LAGUNA | Lac de mare | Lac de mare
+LAMPI | Surse de lumina | Surse de lumina
+LANCEA | Arma cu coada lunga | Arma lunga
+LANSATA | Aruncata | Aruncata
+LANSEZ | Arunc sau pornesc | Arunc
+LAOLALTA | Impreuna | Impreuna
+LASAI | Parasii | Parasii
+LASAU | Permiteau | Permiteau
+LATEX | Material elastic | Material elastic
+LATIN | Din vechea Roma | Din vechea Roma
+LATRA | Face ham | Face ham
+LAUZI | Spui lucruri frumoase despre cineva | Elogiezi
+LAZI | Cufere mari | Cufere
+LEBADA | Pasare eleganta cu gat lung pe lac | Pasare de lac
+LEFTER | Fara bani | Fara bani
+LEGITIM | Dupa lege | Legal
+LEGITIMA | Recunoscuta de lege | Legala
+LEGIUNE | Unitate militara romana | Unitate militara
+LEGUMA | Rosia, ardeiul etc | Rosia
+LEIT | Exact la fel | Exact la fel
+LEJER | Usor | Usor
+LEOPARD | Felina cu pete | Felina
+LETAL | Mortal | Mortal
+LEUCEMIE | Cancer al sangelui | Boala grava
+LEUSTEAN | Verdeata aromata pentru ciorba | Verdeata
+LEZIUNE | Rana | Rana
+LIBRARIE | Magazin cu carti | Magazin
+LIHNIT | Mort de foame | Mort de foame
+LILIECI | Mamifere zburatoare de noapte | Zburatoare
+LILIECII | Mamiferele de noapte | Mamiferele de noapte
+LIMBII | A organului gustului | A organului
+LIMBILE | Idiomuri | Idiomuri
+LIMONADA | Bautura de vara cu lamaie | Racoritor
+LIMPEZESC | Fac clar | Fac clar
+LINGURA | Cu ea mananci supa | Tacam
+LINISTESC | Calmez | Potolesc
+LINISTII | A pacii | A pacii
+LINISTITOR | Care calmeaza | Calmant
+LIPESC | Pun adeziv | Pun lipici
+LIPICIOS | Care se lipeste | Adeziv
+LIPITA | Prinsa cu clei | Prinsa
+LIPSEI | A absentei | A absentei
+LIRA | Instrument antic sau moneda | Instrument antic
+LITERAL | Cuvant cu cuvant | Cuvant cu cuvant
+LITERAR | Legat de carti | Legat de carti
+LITERATURA | Opere scrise | Opere
+LITRU | Unitate pentru lichide | Unitate
+LOBUL | Partea moale a urechii | Partea moale
+LOCALIZARE | Gasire a locului | Gasire a locului
+LOCALNIC | Om din zona | Autohton
+LOGO | Emblema unei firme | Emblema
+LOGODITA | Care a primit inel de promisiune | Promisa
+LOGODNIC | Cel promis in casatorie | Cel promis
+LOJA | Balcon intim la teatru | Loc de teatru
+LOTIUNE | Crema lichida | Crema lichida
+LOTO | Joc cu numere | Joc cu numere
+LOTUS | Floare de apa sacra | Floare
+LUAI | Primeai | Primeai
+LUASEM | Primisem | Primisem
+LUCRATOR | Muncitor | Muncitor
+LUMILE | Universurile | Universurile
+LUMINOASA | Cu multa lumina | Cu multa lumina
+LUSTRUIT | Facut sa straluceasca | Facut sa straluceasca
+LUXOS | Plin de lux | Plin de lux
+LUXUL | Bogatia | Bogatia
+MACARA | Ridica greutati pe santier | Ridica greutati
+MACELAR | Taie carnea | Taietor
+MACINA | Faci faina | Faci faina
+MADUVA | Interiorul oaselor | Interiorul oaselor
+MAFIE | Organizatie criminala | Organizatie criminala
+MAGISTRAT | Judecator | Judecator
+MAHALA | Cartier sarac | Cartier sarac
+MAHMUR | Rau dupa betie | Rau dupa betie
+MAHMUREALA | Starea dupa betie | Starea dupa betie
+MAICUTA | Mama, cu drag | Mama
+MAINILOR | Ale membrelor superioare | Ale membrelor
+MAIONEZA | Sos cu ou si ulei | Sos
+MAJORDOM | Servitor-sef | Servitor-sef
+MAJORETA | Fata care danseaza cu bagheta | Dansatoare
+MAJORITATE | Mai multi | Mai multi
+MALARIE | Boala adusa de tantari | Boala
+MAMALIGA | Mancare galbena din malai | Mancare traditionala
+MAMBO | Dans latino | Dans latino
+MAMIFER | Animal care alapteaza | Animal care alapteaza
+MANAGEMENT | Conducere | Conducere
+MANCARIME | Senzatie de zgariat | Senzatie
+MANCATOR | Care mananca | Care mananca
+MANCAU | Se hraneau | Se hraneau
+MANECHIN | Model de haine | Model
+MANETA | Parghie de comanda | Parghie
+MANEVRAT | Condus cu miscari | Condus
+MANGAI | Ating cu duiosie | Ating cu duiosie
+MANGAIE | Atinge cu blandete | Atinge cu blandete
+MANIFESTA | Arata | Arata
+MANIOS | Furios | Furios
+MANIPULARE | Influentare in secret | Influentare
+MANIPULAT | Condus din umbra | Indrumat
+MANSARDA | Camera sub acoperis | Camera sub acoperis
+MANTIE | Haina larga fara maneci | Haina larga
+MANTUIRE | Salvarea sufletului | Salvare
+MANUALA | Facuta cu mainile | Facuta cu mana
+MARAR | Verdeata pentru muraturi | Verdeata
+MARATON | Cursa lunga de 42 km | Cursa lunga
+MARCATA | Insemnata | Insemnata
+MARCHIZ | Nobil francez | Nobil
+MAREE | Urcarea si scaderea apei marii | Flux si reflux
+MARFURI | Produse de vanzare | Produse
+MARIAJ | Casatorie | Casatorie
+MARILOR | Ai celor mari | Ai celor mari
+MARIONETA | Papusa cu sfori | Papusa cu sfori
+MARITIM | De mare | De mare
+MARKETING | Promovare a vanzarilor | Promovare
+MARMURA | Piatra fina pentru statui | Piatra fina
+MARTORA | Femeie care a vazut | Femeie
+MARUNTAIELE | Organele din burta | Organele din burta
+MARUNTIS | Banii mici, de la rest | Rest
+MASCOTA | Obiect sau animal purtator de noroc | Obiect purtator de noroc
+MASCULINA | De barbat | De barbat
+MASE | Multimi | Multimi
+MASINARIE | Utilaj | Utilaj
+MASOARA | Calculeaza dimensiunea | Calculeaza
+MASTILE | Acopera fata | Acopera fata
+MASURAT | Evaluat | Evaluat
+MASUTA | Masa mica | Masa mica
+MATERNITATE | Spital pentru nasteri | Spital pentru nasteri
+MATRICEA | Tipar | Tipar
+MATURITATE | Varsta adulta | Varsta adulta
+MATURIZAT | Crescut | Crescut
+MECANICA | Stiinta masinilor | Stiinta
+MEDALION | Bijuterie care se deschide | Bijuterie
+MEDII | De mijloc | De mijloc
+MEDIOCRU | Nici bun nici rau | Nici bun nici
+MEDITATIE | Gandire profunda sau lectii particulare | Gandire profunda
+MEDITEZ | Ma gandesc adanc | Ma gandesc adanc
+MEGA | Foarte mare | Foarte mare
+MELC | Se tara cu casa in spate | Se tara cu casa
+MEMBRA | Parte a unui grup | Parte
+MEMENTO | Amintire | Amintire
+MEMORAT | Retinut | Retinut
+MEMORIAL | Monument de amintire | Monument
+MENITA | Destinata | Destinata
+MENTINUT | Pastrat | Pastrat
+MENTOR | Indrumator | Indrumator
+MER | Pom care da mere | Pom
+MERCENAR | Soldat platit | Soldat platit
+MERELE | Fructele rosii din pom | Fructele din pom
+MESCHIN | Josnic si zgarcit | Josnic
+METAFORA | Figura de stil | Figura
+METAN | Gaz natural | Gaz natural
+METEORIT | Piatra cazuta din cosmos | Piatra cosmica
+METICULOS | Foarte atent la detalii | Foarte atent
+METRO | Tren subteran | Tren subteran
+MEXICANA | Din Mexic | De Mexic
+MEXICANII | Locuitorii Mexicului | Locuitorii Mexicului
+MIAU | Zice pisica | Zice pisica
+MICROSCOP | Aparat pentru lucruri mici | Aparat
+MICSORAT | Redus | Redus
+MIEI | Puii oilor | Puii oilor
+MIERLA | Pasare neagra cantatoare | Pasare neagra
+MIGDALE | Samburi dulci pentru prajituri | Samburi dulci
+MIGRENA | Durere puternica de cap | Durere de cap
+MILENIU | O mie de ani | Mie de ani
+MILIARDAR | Foarte bogat | Foarte bogat
+MILOSTIV | Plin de mila | Plin de mila
+MINAT | Plin de explozibil | Plin de explozibil
+MINEI | Din mina | Din mina
+MINER | Lucreaza in subteran la extractie | Muncitor in mina
+MINERALA | Cu saruri, vorbind de apa | Cu saruri
+MINGII | Sferei de joc | Sferei
+MINGILE | Sferele de joc | Sferele
+MINIATURA | Obiect foarte mic, in mic | Versiune mica
+MINIMA | Cea mai mica | Cea mai mica
+MINIMUM | Cel putin | Cel putin
+MINISTER | Institutie a guvernului | Institutie
+MIRACULOS | De-a dreptul minunat | Minunat
+MIRAJ | Iluzie optica in desert | Iluzie optica
+MIRAT | Uimit | Uimit
+MIRI | Cei doi de la nunta | Cei doi
+MIROASA | Sa aiba mirosul | Sa miroasa
+MIROSULUI | Al simtului olfactiv | Al simtului
+MISTERIOASA | Plina de mister | Enigmatica
+MISTIC | Legat de taine religioase | Legat de taine
+MITITEL | Mic de tot | Mic de tot
+MITRALIERA | Arma automata | Arma automata
+MIXTE | Amestecate | Amestecate
+MOASA | Ajuta la nastere | Ajuta la nastere
+MOBILIER | Obiecte de casa | Obiecte de casa
+MODELAT | Format din lut | Format din lut
+MODESTA | Fara fala | Fara fala
+MODIFIC | Schimb | Schimb
+MODIFICARE | Schimbare | Schimbare
+MODIFICATA | Schimbata | Schimbata
+MOLIE | Insecta care roade hainele | Insecta
+MOLOZ | Resturi de la daramari | Resturi
+MONEDELE | Banutii | Banutii
+MONITORIZARE | Urmarire continua | Urmarire
+MONSTRUOS | Ingrozitor | Ingrozitor
+MONTAJ | Instalare | Instalare
+MONTAT | Instalat | Instalat
+MONTEZ | Instalez | Instalez
+MONUMENT | Statuie sau cladire istorica | Statuie
+MORALITATE | Calitatea de a fi bun | Calitatea
+MORAVURI | Obiceiuri | Obiceiuri
+MORBID | Bolnavicios | Bolnavicios
+MORCOV | Radacina portocalie | Radacina
+MORCOVI | Legume portocalii | Legume
+MOROCANOS | Posac | Posac
+MOSCHEE | Locas musulman de rugaciune | Locas de cult
+MOSTENITOR | Cel care primeste averea | Cel
+MOTAN | Pisica mascul | Pisica mascul
+MOTIUNE | Propunere votata in parlament | Propunere
+MOTIVAT | Cu dorinta de a reusi | Cu dorinta
+MOTIVATIE | Imbold | Imbold
+MOTO | Motocicleta pe scurt | Motocicleta
+MUCEGAI | Ciuperca de pe paine veche | Ciuperca
+MUCHIE | Margine ascutita | Margine ascutita
+MULTUMIRE | Satisfactie | Satisfactie
+MUMIE | Cadavru conservat | Cadavru conservat
+MUNICIPAL | Al orasului | Al orasului
+MURDARIE | Ceva ce nu e curat | Mizerie
+MURDARIT | Patat | Patat
+MURE | Fructe negre de padure | Fructe negre
+MUREA | Isi dadea sufletul | Isi dadea sufletul
+MUREAM | Ne stingeam | Ne stingeam
+MURMUR | Sunet slab, de apa | Susur
+MUSAFIR | Oaspete | Oaspete
+MUSAI | Neaparat | Neaparat
+MUSCATURA | Semn de dinti | Semn
+MUSCULARA | De muschi | De muschi
+MUST | Suc de struguri neinfermentat | Suc de struguri
+MUSTAR | Sos galben iute | Sos
+MUSTELE | Insecte zumzaitoare | Insecte
+MUSULMAN | Credincios al lui Allah | Credincios
+MUTATA | Dusa in alt loc | Dusa in alt
+MUTATIE | Schimbare genetica | Schimbare genetica
+MUTILAT | Ciuntit | Ciuntit
+MUZA | Zeita inspiratiei | Zeita inspiratiei
+NADEJDE | Speranta | Speranta
+NAMOL | Noroi gros | Noroi
+NAPOLITANA | Prajitura crocanta cu straturi | Prajitura crocanta
+NASTURE | Inchide haina | Inchide haina
+NASTURI | Inchid camasa | Inchid camasa
+NASTURII | Inchid haina | Inchid haina
+NATIV | De loc | Autohton
+NAVALA | De nave | De nave
+NAVIGAT | Plutit pe mare | Plutit
+NAVIGATIE | Condusul navelor | Condusul navelor
+NAZIR | Inspector, in argou | Inspector
+NEA | Unchi, in vorbirea populara | Unchi
+NEAJUTORAT | Fara putere | Fara putere
+NEAM | Familie sau popor | Familie
+NEAMT | German | German
+NEANT | Nimic total | Nimic total
+NECESITATE | Nevoie | Nevoie
+NECINSTIT | Fara onoare | Fara onoare
+NECLAR | Nelimpede | Nelimpede
+NECLARA | Nelimpede | Nelimpede
+NECLINTIT | Neschimbat | Neschimbat
+NECTAR | Sucul dulce al florilor | Sucul florilor
+NECTARINA | Piersica fara puf | Fruct neted
+NECURAT | Diavolul sau murdar | Diavolul
+NEDEMN | Care nu merita | Care nu merita
+NEDREAPTA | Inechitabila | Inechitabila
+NEDREPTATE | Fapta inechitabila | Inechitate
+NEFOLOSITOR | Fara utilitate | Inutil
+NEGLIJENTA | Lipsa de atentie | Lipsa de atentie
+NEGOCIAT | Tratat | Tratat
+NEGOCIERE | Tratativa | Tratativa
+NEGUSTOR | Comerciant | Comerciant
+NEIERTAT | Fara iertare | Fara iertare
+NEINFRICAT | Fara frica | Fara frica
+NEINSEMNAT | Fara importanta | Fara importanta
+NEINTELEGERE | Dezacord | Cearta
+NELIMITAT | Fara margini | Fara margini
+NELINISTIT | Agitat | Agitat
+NELINISTITA | Agitata | Agitata
+NEMULTUMIT | Care nu e fericit | Nefericit
+NENE | Domn mai in varsta, popular | Domn mai in varsta
+NENOROCIRE | Dezastru | Dezastru
+NEON | Gaz pentru reclame luminoase | Gaz nobil
+NEPRETUIT | De mare valoare | De mare valoare
+NERV | Fibra prin care circula impulsul | Fibra
+NESABUIT | Fara minte | Necugetat
+NESIGURA | Care ezita | Care ezita
+NESUFERIT | Insuportabil | Insuportabil
+NETED | Lipsit de asperitati | Lins
+NEUITAT | Care ramane in minte | Memorabil
+NEUTRA | Fara partizanat | Fara partizanat
+NEUTRU | Fara partizanat | Impartial
+NEVATAMAT | Fara vreo rana | Teafar
+NEVAZUT | Ascuns vederii | Ascuns vederii
+NEVESTELE | Sotiile | Sotiile
+NICICUM | In niciun fel | In niciun fel
+NIMERESC | Lovesc tinta | Lovesc tinta
+NOCTURNA | De noapte | De noapte
+NOIMA | Sens | Sens
+NOMAD | Fara casa fixa | Calator
+NOMINALIZAT | Propus pentru premiu | Propus pentru premiu
+NONSENS | Lipsa de sens | Absurd
+NONSTOP | Fara oprire | Fara oprire
+NOSTIMA | Haioasa | Haioasa
+NOTAR | Autentifica acte | Autentifica acte
+NOTIFICARE | Anunt oficial | Anunt
+NOTORIU | Cunoscut in rau | Cunoscut in rau
+NOVICE | Incepatoare | Incepatoare
+NUANTA | Variatie de culoare | Variatie de culoare
+NUCLEU | Miez | Miez
+NUL | Zero | Zero
+NUMARAM | Socotim | Socotim
+NUMARULUI | Al cifrei | Al cifrei
+NUMERIC | Exprimat in cifre | Cu cifre
+NUNTILE | Casatoriile cu petrecere | Casatoriile
+OAIA | Animalul cu lana | Animalul cu lana
+OASELOR | Ale scheletului | Ale scheletului
+OAZA | Loc cu apa in desert | Loc cu apa
+OBISNUIESC | Am obiceiul | Ma deprind
+OBLIG | Silesc | Silesc
+OBLIGATIE | Datorie | Datorie
+OBLIGATORIU | Fara scapare | Necesar
+OBOSEALA | Lipsa de puteri | Lipsa de puteri
+OBOSESC | Pierd din puteri | Pierd din puteri
+OBOSITOR | Care te storce de puteri | Istovitor
+OBRAJI | Partile rotunde ale fetei | Parti ale fetei
+OBRAJII | Parti rotunde ale fetei | Parti ale fetei
+OBSCEN | Vulgar | Vulgar
+OBSCUR | Intunecat | Intunecat
+OBSCURA | Neclara | Neclara
+OBSERVATOR | Cel care urmareste | Priveghetor
+OBSESIV | Care nu iese din minte | Care nu iese
+OCCIDENT | Vestul | Vestul
+OCHIT | Tintit | Tintit
+OCOLESC | Ma feresc | Ma feresc
+OCUPATIE | Meserie sau cucerire | Meserie
+ODIHNIT | Cu puteri refacute | Refacut
+ODINIOARA | Candva, in trecut | Altadata
+OFENSA | Insulta | Insulta
+OFENSAT | Jignit | Jignit
+OFENSIVA | Atac | Atac
+OFEREA | Dadea | Dadea
+OFERIND | Dand | Dand
+OFERITA | Daruita | Daruita
+OFTAT | Suspin | Suspin
+OGLINZI | Iti arata chipul | Reflectii
+OLANDEZ | Locuitor din Amsterdam | Locuitor
+OLANDEZA | Limba din Amsterdam | Limba
+OMAGIU | Cinstire | Cinstire
+OMENESC | De om | De om
+OMENIRE | Toti oamenii | Toti oamenii
+OMORAREA | Uciderea | Uciderea
+OMULET | Om mic | Om mic
+ONESTA | Cinstita | Cinstita
+ONESTITATE | Cinste | Cinste
+ONOAREI | Al respectului de sine | Al respectului
+ONOREZ | Respect | Respect
+ONORURI | Cinstiri oficiale | Cinstiri
+ONORURILE | Cinstiri | Cinstiri
+OPAL | Piatra scumpa lucioasa | Piatra scumpa
+OPERATIV | Rapid in actiune | Rapid
+OPERATOR | Cel care manevreaza un aparat | Tehnician
+OPORTUN | La timpul potrivit | Potrivit
+OPTIC | Referitor la vedere | Referitor la vedere
+OPTICA | Stiinta luminii | Stiinta luminii
+OPTIMISTA | Increzatoare | Increzatoare
+ORCHESTRA | Grup mare de muzicieni | Grup de muzicieni
+ORDINAR | Vulgar | Vulgar
+ORDINARA | Vulgara | Vulgara
+ORFANA | Fata fara parinti | Fata fara parinti
+ORGANIC | Natural | Natural
+ORGANIZARE | Punere in ordine | Punere in ordine
+ORGANIZATA | Bine pusa la punct | Ordonata
+ORGANIZATIE | Asociatie | Asociatie
+ORGANIZEZ | Pun la punct | Randuiesc
+ORGOLIU | Mandrie excesiva | Mandrie
+ORHIDEE | Floare exotica | Floare exotica
+ORIENT | Punctul cardinal al rasaritului | Rasarit
+ORIENTARE | Gasirea directiei | Gasirea directiei
+ORIGINI | Radacini | Radacini
+ORIGINILE | De unde provii | Radacinile
+OROARE | Groaza | Groaza
+OSOASA | De os | De os
+OSPAT | Masa mare cu multa mancare | Banchet
+OSPATAR | Aduce mancarea la masa | Chelner
+OSPITALITATE | Primire calduroasa | Primire calduroasa
+OSTILA | Dusmanoasa | Dusmanoasa
+OSULUI | Al scheletului | Al scheletului
+OTET | Lichid acru pentru salate | Lichid acru
+OTRAVIRE | Intoxicare cu otrava | Intoxicare
+OTRAVITOR | Toxic | Toxic
+OVAL | Ca un ou | Ca un ou
+OZON | Gaz al stratului protector | Gaz protector
+PACALEALA | Truc | Truc
+PACATOS | Care a gresit | Vinovat
+PADUCHI | Insecte din par | Paraziti
+PAGAN | Nebotezat | Nebotezat
+PAGUBA | Pierdere materiala | Pierdere
+PAIANJENI | Isi fac panze | Isi fac panze
+PAIANJENUL | Isi tese panza | Isi tese panza
+PAIUL | Tulpina uscata | Tulpina
+PAJURA | Vultur, pe stema | Vultur
+PALAVRAGEALA | Vorbe multe fara rost | Vorbe multe
+PALINCA | Tuica tare ardeleneasca | Bautura tare
+PALMIER | Copac tropical | Copac tropical
+PALMUIT | Lovit peste obraz | Lovit peste obraz
+PALPITANT | Plin de suspans | Plin de suspans
+PANGLICA | Fasie de tesatura | Fasie
+PANTA | Teren inclinat | Teren inclinat
+PAPAGAL | Pasare care repeta vorbe | Pasare
+PAPUC | Incaltaminte de casa | Incaltaminte de casa
+PAPUSILE | Jucariile cu chip de om | Jucarii
+PARADOX | Contradictie aparenta | Contradictie
+PARAGRAF | Alineat | Alineat
+PARALEL | Alaturat si la aceeasi distanta | Alaturat
+PARALIZAT | Care nu se poate misca | Imobilizat
+PARALIZIE | Pierderea miscarii | Pierderea miscarii
+PARAMEDIC | Ajuta la ambulanta | Ajuta la ambulanta
+PARASITA | Lasata in urma | Lasata
+PARASUTA | Te ajuta sa aterizezi usor | Te ajuta
+PARAU | Rau mic | Rau mic
+PARAVAN | Panou pliant care desparte un spatiu | Panou
+PARBRIZ | Sticla din fata a masinii | Sticla din fata
+PARCHEZ | Opresc masina | Opresc masina
+PARGHIE | Unealta simpla de ridicat greutati | Unealta
+PARLAMENT | Locul unde se fac legile | Legislativ
+PARNAIE | Inchisoare | Temnita
+PAROHIE | Comunitatea unei biserici | Comunitatea bisericii
+PAROS | Cu multa blana | Cu multa blana
+PARTENERIAT | Asociere | Asociere
+PARTIALA | In parte | In parte
+PARTICULARA | Privata | Privata
+PARTII | A unei bucati | A unei bucati
+PASARILOR | Ale celor care zboara | Ale zburatoarelor
+PASESC | Fac un pas | Fac un pas
+PASIONAL | Plin de patima | Plin de patima
+PASIONALA | Plina de patima | Plina de patima
+PASIT | Facut un pas | Facut un pas
+PASIV | Care nu actioneaza | Care nu actioneaza
+PASNIC | Care nu vrea lupta | Linistit
+PASTI | Cele mai mari sarbatori de primavara | Sarbatoare
+PATAT | Cu pete | Cu pete
+PATATA | Cu urme de murdarie | Cu urme
+PATE | Pasta de carne pentru paine | Pasta de carne
+PATISERIE | Magazin cu produse de aluat | Magazin de aluat
+PATRIE | Tara natala | Tara natala
+PATRON | Seful unei firme | Sef
+PATRUND | Intru adanc | Intru adanc
+PATRUNJEL | Verdeata aromata | Verdeata
+PATUT | Pat mic pentru bebelus | Pat de bebelus
+PAVILION | Cladire usoara | Cladire usoara
+PAZITA | Aparata | Aparata
+PAZITOR | Cel care pazeste | Cel care pazeste
+PEDALA | Se calca cu piciorul | Se calca
+PEDEPSE | Sanctiuni | Sanctiuni
+PEDEPSEI | A sanctiunii | A sanctiunii
+PEDIATRU | Doctor de copii | Doctor de copii
+PELERINA | Haina larga de ploaie | Haina larga
+PELERINAJ | Calatorie la un loc sfant | Calatorie sfanta
+PELUZA | Gazon sau tribuna ultrasilor | Gazon
+PENELE | Pe pasare | Pe pasare
+PENIBIL | Jenant | Jenant
+PENSA | Unealta pentru smuls | Unealta
+PENSII | Bani de la stat pentru varstnici | Bani de la stat
+PENSIONARE | Iesire la pensie | Retragere
+PENSIONAT | Cel care a iesit la pensie | Retras
+PENSIUNE | Unitate de cazare mica | Cazare
+PENTAGON | Figura cu cinci laturi | Poligon
+PERCEP | Simt | Simt
+PERCEPUT | Simtit | Simtit
+PERCHEZITIE | Cautare in casa de catre politie | Cautare
+PERDEA | Draperie | Draperie
+PERDELE | Acopera geamul | Acopera geamul
+PERDELELE | Draperii | Draperii
+PERE | Fructe dulci in forma de clopot | Fructe
+PERFECTIUNE | Lipsa oricarui cusur | Lipsa cusurului
+PERFORAT | Gaurit | Gaurit
+PERFORMANTA | Rezultat remarcabil | Rezultat
+PERFUZIE | Solutie care curge in vena | Solutie
+PERI | Fire de par | Fire de par
+PERIE | Curata sau piaptana | Curata
+PERII | Fire de blana | Fire de blana
+PERIMETRU | Marginea unei figuri | Contur
+PERIUTA | Speli dintii cu ea | Speli dintii
+PERLA | Bijuterie rotunda din scoica | Bijuterie rotunda
+PERMISIUNE | Aprobare | Aprobare
+PERON | Platforma de la gara | Platforma
+PERSPECTIVA | Punct de vedere | Viziune
+PERSPICACE | Priceput sa observe | Priceput
+PESCUIESC | Prind pesti | Prind pesti
+PESIMIST | Vede totul in negru | Vede totul
+PESTERI | Grote | Grote
+PETITIE | Cerere semnata de multi | Cerere
+PICI | Cadi in picaturi | Cadi in picaturi
+PIEDICA | Obstacol | Obstacol
+PIEILE | Invelisurile animalelor | Invelisurile
+PIEPTENE | Il folosesti pentru par | Il folosesti
+PIER | Dispar | Dispar
+PIERDEA | Nu mai avea | Nu mai avea
+PIERDEAM | Nu mai aveam | Nu mai aveam
+PIERDUSEM | Nu mai aveam | Nu mai aveam
+PIERSICI | Fructe catifelate | Fructe
+PIETEI | A targului | Targului
+PIETELE | Locurile unde se vinde | Locurile de vanzare
+PIETREI | Al bolovanului | Al bolovanului
+PIJAMA | Hainele de dormit | Hainele de dormit
+PILOTAJ | Conducerea avionului | Conducerea avionului
+PILULA | Pastila | Pastila
+PINGUIN | Pasare de la poli care nu zboara | Pasare polara
+PIPAI | Ating | Ating
+PIRAMIDA | Mormant de faraon | Monument
+PISICUTA | Pisica mica | Pisica mica
+PISOI | Pui de pisica | Pui de pisica
+PITIGOI | Pasarica de iarna cu burta galbena | Pasarica
+PIURE | Cartofi pisati | Cartofi pisati
+PLACILE | Fasii plate de piatra | Fasii plate
+PLAGA | Rana adanca | Rana adanca
+PLAMAN | Organ de respiratie | Organ de respiratie
+PLANIFICARE | Organizare dinainte | Organizare
+PLASAMENT | Investitie | Investitie
+PLASTURE | Se pune pe rana | Se pune
+PLATILE | Sumele achitate | Sumele achitate
+PLATINA | Metal pretios alb | Metal pretios
+PLAUZIBIL | Credibil | Credibil
+PLAYER | Aparat de redat muzica | Aparat de redat
+PLEDAT | Aparat in instanta | Aparat
+PLEDEZ | Apar in instanta | Apar
+PLICTICOS | Care te face sa casti | Care te face
+PLICTISEALA | Lipsa de interes | Plictis
+PLOI | Cad din nori | Cad din nori
+PLOII | A precipitatiilor | A precipitatiilor
+PLOILE | Precipitatiile | Precipitatiile
+PLUG | Deschide brazda in camp | Deschide brazda
+PLURAL | Mai multi | Mai multi
+PLUTIRE | Statul deasupra apei | Statul deasupra apei
+PLUTIT | Stat deasupra apei | Stat deasupra apei
+PNEUMONIE | Boala de plamani | Boala
+POANTA | Final de gluma | Final de gluma
+POCHER | Joc de carti american | Joc de carti
+PODIUM | Locul pe care urca castigatorii | Locul castigatorilor
+POETIC | Frumos ca o poezie | Liric
+POJAR | Boala copilariei cu pete rosii | Boala copilariei
+POLAR | De la poli | De la poli
+POLEN | Praf de la flori | Praf
+POLITA | Raft sau act de asigurare | Raft
+POLITETE | Maniere frumoase | Maniere
+POLITICIAN | Om de stat | Om politic
+POLITICOASA | Cu maniere | Cu maniere
+POLONEZ | Locuitor din Varsovia | Slav
+POLONEZA | Limba din Varsovia | Limba din Varsovia
+POMENI | Mentiona | Mentiona
+POMPOS | Fastuos si exagerat | Fastuos
+POND | Greutate, in vechime | Greutate
+POPAS | Oprire scurta | Oprire
+POPULARE | Iubite de multi | Iubite de multi
+POPULATIE | Totalitatea locuitorilor | Locuitori
+PORNITA | Mersa | In functiune
+PORTABIL | Care se poate duce usor | Care se poate duce
+PORTIUNE | Parte | Parte
+PORTOCALIE | Culoare sau fruct | Culoare
+PORTOCALIU | Culoarea fructului citric | Culoare
+PORUNCA | Ordin | Ordin
+POSEDATA | Stapanita de forte rele | Stapanita
+POSTURA | Pozitie a corpului | Pozitie
+POTARNICHE | Pasare mica de vanatoare | Pasare de vanatoare
+POTECA | Carare mica | Carare
+POTIUNE | Bautura magica | Bautura magica
+POTOLIT | Linistit | Linistit
+POTOP | Inundatie biblica | Inundatie
+POVESTESTI | Spui o intamplare | Relatezi
+POVESTIRE | Naratiune | Naratiune
+POZAT | Fotografiat | Fotografiat
+PRABUSESC | Cad brusc | Cad brusc
+PRABUSIRE | Cadere brusca | Cadere brusca
+PRADATOR | Animal care vaneaza | Fiara
+PRAJESC | Gatesc in ulei | Gatesc in ulei
+PRAPADIT | Sarman si slab | Sarman si slab
+PRAPASTIE | Hau adanc | Hau adanc
+PREAVIZ | Anunt dat din timp | Anunt dat
+PRECAUTIE | Prudenta | Prudenta
+PRECISA | Exacta | Exacta
+PREDARE | Dare in grija | Dare
+PREDICA | Cuvant rostit de preot | Cuvant din amvon
+PREFECT | Reprezentantul guvernului intr-un judet | Reprezentant al guvernului
+PREJUDICIU | Paguba | Paguba
+PRELEGERE | Expunere la curs | Lectie
+PRELIMINAR | Initial | Initial
+PRELIMINARA | Facuta la inceput | Facuta la inceput
+PRELIMINARE | Din etapa de inceput | De inceput
+PRELUARE | Luare in primire | Luare in primire
+PRELUDIU | Introducere muzicala | Introducere
+PRELUNGIT | Facut mai lung | Facut mai lung
+PREMATUR | Aparut prea devreme | Timpuriu
+PREMEDITARE | Gandire dinainte a unei fapte | Gandire dinainte
+PREMIERA | Prima reprezentatie | Prima data
+PRENUME | Numele mic | Numele mic
+PRENUMELE | Numele de botez | Nume mic
+PREOCUPARE | Grija | Grija
+PREPAR | Gatesc | Gatesc
+PREPARAT | Mancare gatita | Mancare gatita
+PRES | Covoras de la usa | Covoras
+PRESCRIE | Indica un tratament | Indica
+PRESCRIS | Dat de doctor | Indicat de doctor
+PRESEZ | Apas | Apas
+PRESIMT | Banuiesc dinainte | Banuiesc
+PRESUPUNERE | Ipoteza | Ipoteza
+PRETENTIOS | Cu cerinte mari | Cu cerinte mari
+PRETEXT | Motiv fals | Scuza
+PRETIOASA | Valoroasa | Valoroasa
+PRETUIESC | Apreciez | Apreciez
+PREVAD | Anticipez | Anticipez
+PREVAZUT | Anticipat | Anticipat
+PREVEDE | Anticipeaza | Anticipeaza
+PREVENIM | Evitam din timp | Evitam
+PREVENIT | Avertizat | Avertizat
+PREVENTIV | Cu rol de prevenire | Cu rol
+PREVIZIBIL | Usor de ghicit | Usor de ghicit
+PRICEPUTA | Dibace | Dibace
+PRIETENOASA | Amabila | Amabila
+PRIMARA | De baza | De baza
+PRIMARE | Initiale | Initiale
+PRIMEJDIE | Pericol | Pericol
+PRIMITA | Luata | Luata
+PRIMITIV | Din timpuri vechi | Primar
+PRINDERE | Apucare | Apucare
+PRIVEGHI | Veghea de langa mort | Veghea
+PRIVILEGIU | Avantaj special | Avantaj
+PRIZONIERA | Prinsa de dusman | Prinsa
+PROBABILA | Posibila | Posibila
+PROBEZ | Incerc | Incerc
+PROCEDEZ | Actionez | Actionez
+PROCESARE | Prelucrare | Prelucrare
+PROCESAT | Prelucrat | Prelucrat
+PROCURATURA | Institutie care acuza | Institutie
+PROFESIE | Meserie | Meserie
+PROFESIONAL | Din meserie | De meserie
+PROFESIONALA | Din meserie | De meserie
+PROFETIE | Prezicere | Prezicere
+PROFITABIL | Care aduce castig | Care aduce castig
+PROGRAMATA | Planificata | Stabilita
+PROGRESAT | Mers inainte | Mers inainte
+PROIECTIE | Imagine pe ecran | Imagine pe ecran
+PROMITATOR | Care da sperante | Plin de sperante
+PROMOTIE | Oferta speciala sau serie de absolventi | Oferta
+PRONUNT | Rostesc | Rostesc
+PRONUNTAT | Rostit | Rostit
+PROPAGANDA | Raspandire de idei politice | Raspandire
+PROPICE | Potrivit | Potrivit
+PROPOZITIE | Parte a frazei | Parte a frazei
+PROPULSIE | Impingere inainte | Impingere
+PROSPERA | Inflorioasa | Inflorioasa
+PROTECTOR | Cel care apara | Aparator
+PROTESTEZ | Ma opun | Ma opun
+PROTEZA | Piesa artificiala pentru corp | Piesa artificiala
+PROTOTIP | Primul model | Primul model
+PROVERB | Zicatoare populara | Zicatoare
+PROVINCIE | Regiune a unei tari | Regiune
+PROVIZORIU | Temporar | Temporar
+PROVOCATA | Cauzata | Cauzata
+PROVOCATOR | Cel care ia la intrebari sau tachineaza | Instigator
+PRUNC | Copil mic | Copil mic
+PRUNE | Fructe mici, dulci-acrisoare | Fructe
+PSIHIATRIC | Legat de boli mintale | Legat de minte
+PSIHIATRIE | Medicina mintii | Medicina
+PSIHOLOGIC | Legat de minte | Mintal
+PSIHOLOGIE | Stiinta comportamentului | Stiinta
+PUBLICATA | Tiparita | Tiparita
+PUDEL | Caine cu blana creta | Caine
+PUFOS | Moale si usor | Moale si usor
+PUICUTA | Fata draguta | Fata draguta
+PUISOR | Pui mic | Pui mic
+PULMONAR | De plamani | De plamani
+PUMA | Felina americana | Felina
+PUNCTUAL | Care vine la ora | Care vine
+PUNGAS | Hot de buzunare | Hot de buzunare
+PUNGILE | Saculetii | Saculetii
+PUNTILE | Podurile mici | Podurile mici
+PUPAT | Sarutat | Sarutat
+PURGATORIU | Loc de ispasire | Loc de ispasire
+PURITATE | Curatenie | Curatenie
+PURTARE | Comportament | Comportament
+PURTATA | Imbracata | Imbracata
+PURTATOR | Cel ce duce | Cel ce duce
+PUSCAS | Soldat de infanterie | Soldat
+PUSCASI | Soldati cu pusti | Soldati
+PUSTOAICA | Fetita | Fetita
+PUTI | Fantani | Fantani
+PUTREZIT | Stricat de vreme | Stricat de vreme
+RABDATOR | Care poate astepta | Calm
+RABIE | Boala adusa de caini | Turbare
+RABIN | Preot evreu | Preot evreu
+RABLA | Masina foarte veche | Masina foarte veche
+RAC | Animal de apa cu clesti | Animal cu clesti
+RACESC | Prind guturai | Prind guturai
+RACI | Clestele de apa | Clestele de apa
+RACIRE | Scadere a temperaturii | Scadere a temperaturii
+RADACINA | Partea plantei din pamant | Partea plantei
+RADICALA | Extrema | Extrema
+RADIOACTIV | Care emite radiatii | Care emite
+RADIOGRAFIE | Imagine cu raze X | Imagine
+RAFINAT | Fin si elegant | Fin
+RAGAZ | Pauza | Pauza
+RALIU | Cursa de masini pe teren | Cursa auto
+RAMOS | Cu multe ramuri | Cu multe ramuri
+RAMPA | Plan inclinat | Plan inclinat
+RAMURA | Craca | Craca
+RANCHIUNA | Resentiment | Resentiment
+RANDUNICA | Anunta primavara | Pasare calatoare
+RANGA | Bara de fier | Bara de fier
+RANII | Al ranei | Al ranei
+RANILOR | Ale taieturilor | Ale taieturilor
+RAPITOR | Care fura oameni sau animal de prada | Animal de prada
+RAPORTULUI | Al referatului | Al referatului
+RAPUS | Doborat | Doborat
+RASARI | A aparea soarele | A aparea soarele
+RASCOLIT | Scotocit | Scotocit
+RASCRUCE | Intersectie | Intersectie
+RASFATAT | Alintat peste masura | Alintat
+RASIALA | Legata de neam | Legata de neam
+RASISM | Ura fata de alte neamuri | Ura
+RASPANDESC | Imprastii | Imprastii
+RASPLATESC | Dau recompensa | Dau recompensa
+RASPUNZATOR | Care raspunde pentru ceva | Care raspunde
+RASTURNAT | Dat peste cap | Dat peste cap
+RASUCIT | Rotit pe sine | Rotit
+RATACESC | Pierd drumul | Pierd drumul
+RATARE | Esec | Esec
+RATATA | Pierduta | Pierduta
+RATIONAL | Gandit cu mintea | Chibzuit
+RATIONALA | Gandita cu logica | Logica
+RATIUNE | Judecata | Judecata
+RATON | Animal cu masca neagra | Animal
+RAUFACATOR | Cel ce face rau | Cel
+RAUTACIOASA | Cu intentii rele | Cu intentii rele
+RAUTACIOS | Plin de rautate | Rau
+RAVASIT | Dat peste cap | Dat peste cap
+RAZBUNAT | Pedepsit pentru o ofensa | Pedepsit
+RAZIE | Control surpriza al politiei | Control politienesc
+REABILITARE | Refacere | Refacere
+REACTOR | Instalatie nucleara sau de avion | Instalatie
+READUS | Adus inapoi | Adus inapoi
+REALIZARE | Implinire | Implinire
+REALMENTE | Cu adevarat | Cu adevarat
+REBELIUNE | Rascoala | Rascoala
+RECEPTOR | Cel ce primeste semnal | Cel ce primeste
+RECIF | Stanca sub apa | Stanca sub apa
+RECIPIENT | Vas | Vas
+RECIPROCA | De la amandoi | De la amandoi
+RECITAL | Spectacol cu un singur artist | Spectacol
+RECOMANDARE | Sfat | Sfat
+RECREERE | Distractie si odihna | Distractie
+RECRUT | Soldat nou | Soldat nou
+RECRUTARE | Angajare in armata | Angajare
+RECUNOSTINTA | Multumire adanca | Multumire
+REDAT | Prezentat | Prezentat
+REDESCHIS | Deschis din nou | Deschis din nou
+REFACEM | Reparam | Reparam
+REFACI | Reconstruiesti | Reconstruiesti
+REFACUT | Reparat | Reparat
+REFERINTA | Trimitere | Trimitere
+REFERIRE | Mentionare | Mentionare
+REFLEX | Raspuns involuntar | Raspuns involuntar
+REFORMA | Schimbare in bine | Schimbare
+REFUGIAT | Fugit din tara de razboi | Fugit
+REFUZATA | Respinsa | Respinsa
+REGASIT | Gasit din nou | Gasit din nou
+REGIMENT | Unitate militara | Unitate militara
+REGIONAL | De zona | De zona
+REGIZAT | Condus ca un film | Condus
+REGLAT | Pus la punct | Pus la punct
+REGRETABIL | Vrednic de parere de rau | Trist
+REGRETAT | Cu parere de rau | Plans
+REINTORS | Venit inapoi | Venit inapoi
+RELAXANT | Care destinde | Care destinde
+RELAXATA | Linistita | Linistita
+RELICVA | Obiect sfant pastrat | Obiect sfant
+RELIGIOASA | Credincioasa | Credincioasa
+RELUAT | Luat de la capat | Luat
+REM | Unitate de radiatie | Unitate
+REMARCA | Observatie | Observatie
+REMORCA | Se ataseaza la masina | Se ataseaza
+RENASCUT | Nascut din nou | Nascut din nou
+RENASTE | Se naste din nou | Se naste
+RENEGAT | Cel ce si-a parasit credinta | Cel
+RENOVARE | Refacere a unei case | Refacere
+REPARTIZAT | Impartit | Impartit
+REPER | Punct de orientare | Punct de orientare
+REPERAT | Gasit | Gasit
+REPETITIE | Exercitiu inainte de spectacol | Exercitiu
+REPORTAJ | Relatare jurnalistica | Relatare
+REPRESALII | Razbunare | Razbunare
+REPREZENTANT | Cel care vorbeste in numele altora | Delegat
+REPREZENTAT | Prezentat | Aratat
+REPRIZA | Parte a unui meci | Parte a unui
+REPRODUCERE | Copie sau inmultire | Copie
+RESCRIE | Scrie din nou | Scrie din nou
+RESEDINTA | Locuinta | Locuinta
+RESPECTABIL | Demn de stima | Stimabil
+RESPECTATA | Cinstita | Cinstita
+RESPECTIV | Anume | Anume
+RESPECTUOS | Plin de stima | Politicos
+RESPINGERE | Refuz | Refuz
+RESPIRAT | Tras in piept | Tras in piept
+RESPIRATIE | Tragerea aerului in piept | Suflu
+RESTITUI | Dau inapoi | Dau inapoi
+RESTRANS | Limitat | Limitat
+RESTRICTIE | Limitare | Limitare
+RESURSA | Sursa de ajutor | Sursa de ajutor
+RETAIL | Vanzare cu amanuntul | Vanzare
+RETEZAT | Taiat dintr-o lovitura | Taiat
+RETINA | Parte a ochiului | Parte a ochiului
+RETINERE | Oprire | Oprire
+RETORICA | Arta de a vorbi frumos | Arta vorbirii
+RETRASA | Departe de lume | Departe de lume
+RETRO | Din stilul trecutului | Din stilul trecutului
+RETURNAT | Trimis inapoi | Trimis inapoi
+RETURNEZ | Dau inapoi | Dau inapoi
+REUNIT | Strans din nou | Strans din nou
+REVAZUT | Vazut din nou | Vazut din nou
+REVELATIE | Descoperire uluitoare | Descoperire
+REVENIRE | Intoarcere | Intoarcere
+REVIZUIRE | Verificare repetata | Verificare repetata
+REVIZUIT | Verificat din nou | Verificat din nou
+REVOLTATOR | Care te infurie | Care te infurie
+REVOLUTIONAR | Cel care vrea schimbarea | Rebel
+REVOLVER | Arma mica cu tambur | Arma cu tambur
+REZERV | Pastrez | Pastrez
+REZERVATA | Retinuta | Retinuta
+REZERVATIE | Zona protejata | Zona protejata
+REZIDUURI | Resturi | Resturi
+REZISTENT | Tare, nu se rupe usor | Durabil
+REZONABILA | Cumpatata | Cumpatata
+REZUMAT | Povestire pe scurt | Povestire pe scurt
+RIDICARE | Urcare | Urcare
+RIDICHI | Radacini picante si rosii | Radacini picante
+RIGID | Neflexibil | Neflexibil
+RINOCER | Animal mare cu corn pe bot | Animal cu corn
+RIPOSTAT | Raspuns tare | Raspuns tare
+RISCANTA | Periculoasa | Periculoasa
+RISIPIT | Aruncat degeaba | Aruncat
+ROBINET | Din el curge apa | Teava
+ROBUST | Puternic | Puternic
+ROI | Grup de albine | Grup de albine
+ROMANTISM | Curent literar | Curent
+ROS | Mancat de rozatoare | Mancat
+ROSCAT | Cu par rosu | Cu par rosu
+ROSCATA | Cu par rosu | Cu par rosu
+ROSTESC | Pronunt | Pronunt
+ROTATIE | Invartire | Invartire
+ROTUNDA | Sferica | Sferica
+RUBIN | Piatra rosie pretioasa | Piatra rosie
+RUGAMINTE | Cerere politicoasa | Cerere
+RUGATA | Ceruta cu insistenta | Ceruta cu insistenta
+RUINATA | Distrusa | Distrusa
+RULARE | Invartire | Invartire
+RULAT | Facut sul | Facut sul
+RULETA | Joc de cazinou | Joc de cazinou
+RULEZ | Ma deplasez | Ma deplasez
+RUPTURA | Despartire | Despartire
+RUSINAT | Cu obrajii rosii de jena | Jenat
+RUT | Perioada de imperechere la animale | Perioada de imperechere
+RUTIER | De sosea | De sosea
+SABIEI | A armei cu lama | A armei
+SABIILE | Armele lungi | Armele lungi
+SABOTAJ | Stricare intentionata | Stricare
+SABOTAT | Stricat intentionat | Stricat intentionat
+SACOSA | Punga de cumparaturi | Punga
+SACRIFIC | Renunt la ceva | Renunt
+SACRIFICA | Renunta la ceva | Renunta
+SADIC | Cruzime pe placere | Cruzime
+SAFARI | Calatorie printre animale salbatice | Calatorie in savana
+SAGA | Povestire lunga | Povestire lunga
+SAGETILE | Proiectilele arcului | Proiectilele
+SAHUL | Regele din joc sau jocul | Regele din joc
+SAIZECI | Sase zeci | Sase zeci
+SAKE | Bautura japoneza | Bautura
+SALI | Camere mari | Camere mari
+SALILE | Incaperile mari | Incaperile
+SALIVA | Scuipat | Scuipat
+SALSA | Dans sau sos | Dans
+SALUTAT | Primit cu bun-venit | Primit
+SALVATOR | Cel ce scapa pe altul | Cel
+SAMAN | Vraciu al triburilor | Vraciu
+SAMANTA | Din ea creste planta | Din ea creste
+SAMPON | Speli parul cu el | Speli parul
+SANATORIU | Spital pentru odihna | Spital
+SANCTUAR | Loc sfant | Loc sfant
+SANCTUARUL | Loc sacru | Loc sfant
+SANGERARE | Pierdere de sange | Hemoragie
+SANGEROS | Plin de sange | Plin de sange
+SANGUINA | De culoarea sangelui | De culoarea sangelui
+SANIE | Vehicul de zapada | Vehicul de zapada
+SANITAR | Legat de igiena si sanatate | Legat de igiena
+SANTAJAT | Amenintat ca sa faca ceva | Amenintat
+SANTIER | Loc de constructie | Loc de constructie
+SAPTELEA | Ordinal dupa al saselea | Ordinal
+SARAT | Cu multa sare | Cu multa sare
+SARBATORESC | Fac festivitate | Serbez
+SARCASTIC | Plin de ironie | Plin de ironie
+SARITURA | Salt | Salt
+SARLATAN | Pacalitor | Pacalitor
+SARMALE | Rulouri de carne in foi de varza | Mancare de sarbatori
+SAS | Locuitor din Transilvania | Locuitor din Transilvania
+SASELEA | Ordinal dupa al cincilea | Ordinal
+SATEN | Cu par castaniu | Cu par castaniu
+SATISFAC | Multumesc | Multumesc
+SATISFACTIE | Multumire | Multumire
+SATISFACUT | Multumit | Multumit
+SATULA | Plina de mancare | Plina de mancare
+SATUR | Hranesc pe deplin | Hranesc
+SATURI | Hranesti pe deplin | Hranesti
+SAUNA | Camera cu aburi fierbinti | Baie de aburi
+SAVUREZ | Gust cu placere | Gust cu placere
+SAXON | Din Transilvania germana | Din Transilvania
+SCADEA | Se micsora | Se micsora
+SCAFANDRU | Se scufunda cu butelie | Se scufunda
+SCALA | Sir gradat de valori | Sir gradat
+SCANAT | Citit de aparat | Citit
+SCANDALOS | Rusinos | Rusinos
+SCANER | Citeste imagini | Citeste imagini
+SCANTEIE | Raza de foc | Faisca
+SCEPTIC | Care nu crede usor | Care se indoieste
+SCHELET | Structura de oase | Oase
+SCHIMBATA | Alta | Alta
+SCHIMBATOR | Care se modifica | Care se modifica
+SCHITA | Desen rapid | Desen rapid
+SCLAVIE | Lipsa totala a libertatii | Robie
+SCLIPITOR | Stralucitor | Stralucitor
+SCOICA | Animal marin cu cochilie | Animal marin
+SCOL | Ma ridic din pat | Ma ridic
+SCOLILE | Institutiile de invatamant | Institutii
+SCORPION | Arahnida cu ac in coada | Arahnida
+SCORTISOARA | Condiment parfumat din coaja | Condiment
+SCOTEA | Extragea | Extragea
+SCRANTIT | Rasucit, la glezna | Rasucit
+SCRIAM | Notam | Notam
+SCRIERE | Mod de a pune ideile pe hartie | Scris
+SCRIIND | Facand notite | Notand
+SCRUM | Ramasita de tigara | Ramasita
+SCUFUND | Bag in apa | Bag in apa
+SCUFUNDARE | Mergere la fund | Mergere la fund
+SCUIP | Elimin saliva | Elimin saliva
+SCUIPE | Sa elimine saliva | Sa elimine
+SCUIPI | Elimini saliva | Elimini saliva
+SCULPTAT | Cioplit | Cioplit
+SCULPTURA | Opera din piatra sau lemn | Opera din piatra
+SCUNDA | Joasa | Joasa
+SCURTATURA | Drum mai scurt | Drum scurt
+SCUTEC | Se pune bebelusului | Pamper
+SCUTER | Motoreta | Motoreta
+SCUTESC | Ferec | Ferec
+SCUTIT | Ferit | Ferit
+SCUTURAT | Zgaltaiat | Zgaltaiat
+SCUZAT | Iertat | Iertat
+SEACA | Fara apa | Fara apa
+SEAMAN | Arat ca cineva | Arat ca cineva
+SECARA | Cereala pentru paine neagra | Cereala
+SECAT | Fara apa | Fara apa
+SECETA | Perioada fara ploi | Perioada fara ploi
+SECRETOS | Care tine lucrurile ascunse | Care tine lucrurile
+SECTA | Grup religios inchis | Grup religios
+SECTIUNE | Parte | Parte
+SECUREA | Taie lemne | Taie lemne
+SECURIZATA | Pazita | Pazita
+SECVENTA | Parte dintr-un film | Parte dintr-un film
+SEDAT | Linistit cu medicamente | Linistit
+SEDATIV | Calmant | Calmant
+SEDERE | Stat intr-un loc | Sejur
+SEDUC | Atrag cu farmec | Atrag
+SEDUS | Vrajit | Vrajit
+SELECTAT | Ales | Ales
+SELECTIE | Alegere | Alegere
+SEMAFOR | Lumina rosie, galbena, verde | Lumina rosie
+SEMANAM | Punem seminte | Punem seminte
+SEMESTRU | Jumatate de an scolar | Perioada
+SEMINEU | Foc in sufragerie | Camin
+SEMINTELE | Se planteaza sa creasca | Se planteaza
+SEMNALAT | Anuntat | Anuntat
+SEMNALIZARE | Luminile care arata ca virezi | Semnal
+SEMNATA | Cu autograf | Cu autograf
+SEMNIFICA | Inseamna | Inseamna
+SEMNIFICATIE | Inteles | Inteles
+SEMNIFICATIV | Important | Important
+SENIL | Slabit de varsta | Slabit de varsta
+SENTIMENTAL | Plin de emotii | Sensibil
+SENTIMENTALA | Plina de emotii | Plina de emotii
+SENZATIONAL | Care face valva | Care face valva
+SEPARARE | Despartire | Despartire
+SEPARATA | Despartita | Despartita
+SERATA | Petrecere de seara | Petrecere de seara
+SERINGA | Se foloseste la injectie | Se foloseste
+SERVER | Calculator central | Calculator central
+SERVERELE | Calculatoarele centrale | Calculatoarele centrale
+SERVETEL | Hartie pentru gura | Hartie
+SERVITA | Adusa la masa | Adusa la masa
+SERVITOARE | Femeie care munceste in casa altuia | Menajera
+SEVERE | Aspre | Aspre
+SFARSESC | Termin | Termin
+SFASIAT | Rupt | Rupt
+SFASIE | Rupe in bucati | Rupe in bucati
+SFIDAT | Provocat | Provocat
+SFINTEI | A celei venerate | A celei venerate
+SFINTI | Cei canonizati | Cei canonizati
+SFINTII | Cei venerati in biserica | Cei din calendar
+SICRIE | Cosciuge | Cosciuge
+SIFILIS | Boala grava | Boala grava
+SIGILIU | Pecete | Pecete
+SILA | Dezgust | Dezgust
+SILICON | Element din nisip, folosit la cipuri | Element
+SILIT | Obligat | Obligat
+SILUETA | Conturul unui corp | Contur
+SIMBOLURI | Semne cu sens | Semne
+SIMPATIE | Atractie sufleteasca | Dragut
+SIMPTOM | Semn al unei boli | Semn
+SIMULARE | Prefacere | Prefacere
+SIMULTAN | In acelasi timp | Odata
+SINCERITATE | Onestitate | Onestitate
+SINDROM | Totalitate de simptome | Totalitate de simptome
+SINEA | Eul din interior | Eul
+SINELE | Fiinta interioara | Fiinta interioara
+SINGURATATE | Starea celui care e singur | Izolare
+SINTETIC | Facut artificial | Facut artificial
+SIRET | Cordon pentru pantofi | Cordon
+SITA | Cerne faina | Cerne faina
+SLABANOG | Foarte slab | Foarte slab
+SLABESC | Pierd in greutate | Pierd in greutate
+SLABITA | Fara putere | Fara putere
+SLAVIT | Laudat | Laudat
+SLIP | Lenjerie masculina | Lenjerie
+SLOGAN | Fraza scurta de reclama | Fraza de reclama
+SLUJIT | Servit | Servit
+SLUJITOR | Servitor | Servitor
+SMARALD | Piatra verde pretioasa | Piatra verde
+SMOCHING | Haina de ceremonie | Haina de ceremonie
+SNITEL | Carne pane si prajita | Carne pane
+SNOB | Care se crede mai presus de altii | Pretentios
+SOACRA | Mama sotiei sau a sotului | Ruda
+SOAPTA | Vorba spusa incet | Vorba spusa incet
+SOBA | Incalzeste camera | Incalzeste camera
+SOBRU | Sever, fara fasoane | Sever
+SOFISTICAT | Rafinat | Rafinat
+SOFISTICATA | Rafinata | Rafinata
+SOFTWARE | Programe de computer | Programe
+SOIM | Pasare de prada vanatoare | Pasare de prada
+SOLD | Articulatia de la picior | Articulatie
+SOMAJ | Lipsa locurilor de munca | Lipsa locurilor
+SOMER | Fara loc de munca | Fara job
+SOMNOROS | Cu chef de dormit | Cu chef
+SONAR | Detecteaza sub apa | Detecteaza sub apa
+SONDAJ | Chestionar de opinii | Chestionar
+SONERIE | Sunetul usii | Sunet
+SONIC | De sunet | De sunet
+SONORE | Cu sunet | Cu sunet
+SOPARLA | Reptila mica cu coada care se rupe | Reptila
+SOPRANO | Voce de femeie, foarte inalta | Voce inalta
+SOPTIT | Spus incet | Spus incet
+SORICEL | Soarece mic | Soarece mic
+SORTIT | Menit de soarta | Menit
+SOVIETIC | Din fosta URSS | Din URSS
+SPADA | Sabie lunga | Sabie lunga
+SPAGHETE | Paste lungi | Paste
+SPAGHETTI | Paste lungi | Paste lungi
+SPAIMA | Frica mare | Frica mare
+SPALAM | Curatam | Curatam
+SPALARE | Curatare cu apa | Curatare
+SPALATI | Curatati | Curatati
+SPALATORIE | Loc unde se spala hainele | Rufarie
+SPANAC | Frunze verzi bogate in fier | Frunze verzi
+SPANZUR | Atarn de gat | Atarn
+SPARGETI | Faceti bucati | Faceti bucati
+SPARTAN | Aspru, fara lux | Aspru
+SPECIALITATE | Domeniu de lucru | Domeniu
+SPECIALIZAT | Cu pregatire in domeniu | Expert
+SPECIMEN | Exemplar | Exemplar
+SPECTACULOS | Impresionant | Impresionant
+SPECTATOR | Priveste spectacolul | Priveste spectacolul
+SPECTRU | Gama de culori sau fantoma | Gama
+SPERJUR | Juramant fals | Juramant fals
+SPINARE | Spatele | Spatele
+SPIONAT | Urmarit pe ascuns | Urmarit pe ascuns
+SPIONEZ | Urmaresc in secret | Urmaresc in secret
+SPIRALA | Linie rasucita | Linie rasucita
+SPIRIDUS | Fiinta mica din povesti | Fiinta mica
+SPLENDIDA | Foarte frumoasa | Frumoasa
+SPONSOR | Cel care finanteaza | Finantator
+SPONTAN | Fara pregatire | Neprevazut
+SPONTANA | Neplanuita | Neplanuita
+SPOR | Crestere sau avantaj | Sporire
+SPOT | Reclama scurta | Reclama scurta
+SPRIJINIM | Ajutam | Ajutam
+SPRIJINIT | Rezemat | Rezemat
+SPULBERAT | Facut praf | Facut praf
+SPUSA | Zisa | Zisa
+STABILESC | Hotarasc | Hotarasc
+STABILITA | Hotarata | Hotarata
+STABILITATE | Siguranta | Echilibru
+STAFIE | Fantoma | Fantoma
+STAGIAR | Practicant | Practicant
+STAGIU | Perioada de practica | Perioada de practica
+STANGACI | Neindemanatic | Neindemanatic
+STANJENIT | Jenat | Jenat
+STANJENITOR | Jenant | Jenant
+STAPANESC | Domin | Domin
+STAPANIRE | Dominare | Dominatie
+STATALA | Al statului | Al statului
+STATIC | Care nu se misca | Neschimbat
+STATISTIC | Legat de numere si date | De date
+STATIUNE | Loc de vacanta cu tratament | Loc de vacanta
+STATUI | Figuri sculptate | Figuri sculptate
+STATUT | Pozitie sociala | Pozitie
+STAZA | Oprire | Oprire
+STEARSA | Data la o parte | Data
+STEP | Zona intinsa cu iarba | Campie
+STEREO | Sunet pe doua canale | Sunet
+STERIL | Fara microbi | Fara microbi
+STICLETE | Pasare mica, galbena si rosie | Pasare mica
+STIINTIFIC | Legat de stiinta | Academic
+STILAT | Cu clasa | Cu clasa
+STIMA | Respect | Respect
+STIMULENT | Imbold | Imbold
+STINGETI | Opriti lumina | Opriti lumina
+STIUCA | Peste rapitor de apa dulce | Peste rapitor
+STOARCE | Scoate sucul | Scoate sucul
+STOCARE | Depozitare | Depozitare
+STOFA | Material textil | Material textil
+STOL | Grup de pasari | Grup de pasari
+STORC | Scot sucul | Scot sucul
+STORS | Zemuit | Zemuit
+STRABATUT | Parcurs | Parcurs
+STRADUIESC | Fac eforturi | Ma ostenesc
+STRAINATATE | Alte tari | Afara
+STRALUCESC | Luminez | Luminez
+STRALUCIRE | Lumina vie | Lumina
+STRALUCIT | Luminat | Luminat
+STRALUCITA | Luminata | Luminata
+STRALUCITOR | Luminos | Lucios
+STRAMB | Nedrept | Nedrept
+STRAMTA | Prea ingusta | Prea ingusta
+STRANGERE | Apasare | Apasare
+STRANGULAT | Sufocat cu mana | Sufocat
+STRANUT | Reflex nazal | Reflex nazal
+STRAPUNS | Gaurit | Gaurit
+STRATEGIC | Important pentru plan | De plan
+STRAVECHI | Foarte vechi | Imemorial
+STRAZILOR | Ale drumurilor din oras | Ale drumurilor
+STREANG | Funie cu nod | Funie cu nod
+STRECOARA | Introduce pe furis | Introduce
+STRECOR | Introduc pe furis | Introduc
+STRECURA | Treci pe nesimtite | Furisa
+STRESANT | Care da stres | Care da stres
+STRIGOI | Mort care umbla noaptea | Mort viu
+STRIVIT | Calcat in picioare | Calcat
+STROPIT | Udat cu picaturi | Udat
+STRUGURI | Din ei se face vinul | Fructe de vie
+STUP | Casa albinelor | Casa albinelor
+STURION | Peste din care se scot icre negre | Peste cu caviar
+SUBLIM | Minunat | Minunat
+SUBLINIAT | Accentuat | Accentuat
+SUBLINIEZ | Pun accentul | Pun accentul
+SUBSTANTA | Materie | Materie
+SUBTERANA | Sub pamant | Sub pamant
+SUBTITLU | Text sub imagine | Text sub imagine
+SUDIC | Din sud | Din sud
+SUDOARE | Transpiratie | Transpiratie
+SUEDEZ | Locuitor din Stockholm | Nordic
+SUEDEZA | Limba din Stockholm | Limba
+SUFERIM | Ne doare | Ne doare
+SUFERIND | Bolnav | Bolnav
+SUFOC | Nu mai pot respira | Nu pot respira
+SUFOCARE | Lipsa de aer | Lipsa de aer
+SUFOCAT | Fara aer | Fara aer
+SUGHIT | Spasm al diafragmei | Spasm
+SUICID | Moarte voluntara | Moarte voluntara
+SUIT | Urcat | Urcat
+SUL | Hartie rulata | Hartie rulata
+SULITA | Arma cu varf | Arma cu varf
+SULTAN | Conducator turc | Conducator turc
+SUM | Peste mare de apa dulce | Peste mare
+SUMBRA | Intunecata | Intunecata
+SUMBRU | Intunecat si trist | Intunecat
+SUPARATOR | Care deranjeaza | Care deranjeaza
+SUPERFICIAL | La suprafata | La suprafata
+SUPERMARKET | Magazin mare cu de toate | Magazin
+SUPERSTAR | Vedeta mare | Vedeta mare
+SUPLIMENTAR | In plus | In plus
+SUPUNERE | Ascultare | Ascultare
+SUR | Cenusiu | Cenusiu
+SURADE | Zambeste usor | Zambeste usor
+SUROGAT | Inlocuitor | Inlocuitor
+SURORILOR | Ale fetelor din aceeasi familie | Ale surorilor
+SURPRINDA | Sa uimeasca | Sa uimeasca
+SURPRINZI | Uimesti | Uimesti
+SUSPENDARE | Oprire temporara | Oprire temporara
+SUSPICIUNE | Banuiala | Banuiala
+SUSPIN | Oftat | Oftat
+SUSTINERE | Sprijin | Sprijin
+SUVERAN | Conducator absolut | Conducator absolut
+TABACESC | Prelucrez piei | Prelucrez piei
+TABEL | Date puse pe randuri si coloane | Date pe coloane
+TABLETA | Calculator plat sau pastila | Calculator plat
+TABU | Interzis social | Interzis social
+TACE | Nu vorbeste | Nu vorbeste
+TACLALE | Vorbe fara rost | Vorbe fara rost
+TACT | Delicatete in purtare | Delicatete
+TACTIC | Dupa plan | Dupa plan
+TAFT | Material lucios | Material lucios
+TAG | Eticheta digitala | Eticheta
+TAIERE | Sectionare | Sectionare
+TAINA | Secret | Secret
+TALENTATA | Cu har | Dotata
+TALHAR | Hot periculos | Hot periculos
+TALISMAN | Obiect norocos | Obiect norocos
+TALPA | Partea de jos a piciorului | Partea de jos
+TAMAN | Exact | Chiar
+TAMPLA | Locul dintre ochi si ureche | Locul dintre ochi
+TAMPON | Piesa de amortizare | Piesa de amortizare
+TANARULUI | Al celui mladios | Al celui mladios
+TANDRU | Bland si iubitor | Bland si iubitor
+TANGA | Lenjerie mica | Lenjerie mica
+TANJESC | Imi este dor | Imi este dor
+TANTAR | Insecta care intepa | Insecta
+TAPET | Hartie pentru pereti | Hartie pentru pereti
+TAR | Forma de sprijin sau bautura | Forma
+TARANA | Pamant | Pamant
+TARANOI | Om necioplit | Om necioplit
+TARC | Imprejmuire pentru animale | Imprejmuire
+TARTA | Prajitura cu umplutura | Prajitura
+TATIC | Tata, afectuos | Tata
+TATUAT | Cu desene pe piele | Cu desene
+TAVERNA | Han vechi | Han
+TAXAT | Impozitat | Impozitat
+TEANC | Gramada ordonata de hartii | Gramada de hartii
+TEHNICIAN | Specialist in aparate | Specialist
+TELECOMANDA | Aparat pentru schimbat canalul | Aparat
+TELEFONAT | Sunat | Sunat
+TELEMEA | Branza sarata | Branza sarata
+TELESCOP | Vezi stelele cu el | Luneta
+TEMEAU | Se speriau | Se speriau
+TEMEI | Motiv | Motiv
+TEMELIE | Baza unei case | Baza unei case
+TEMNITA | Inchisoare | Inchisoare
+TEMPERAMENT | Fire | Fire
+TEMPORAL | Pentru scurt timp | Provizoriu
+TEMPORALA | Referitoare la timp | De timp
+TENSIONAT | Incordat | Incordat
+TENSIONATA | Incordata | Incordata
+TENTA | Nuanta | Nuanta
+TENTANT | Ispititor | Ispititor
+TERESTRA | De pamant | De pamant
+TERIFIANT | Infricosator | Infricosator
+TERMINAL | Statie finala | Capat
+TERORISM | Violenta pentru a speria | Teroare
+TESTATA | Verificata | Verificata
+TESTOASA | Animal cu carapace, incet | Reptila cu carapace
+TEVI | Conducte | Conducte
+TIBET | Tinut din Asia, cu munti inalti | Tinut asiatic
+TICAIE | Face ceasul | Face ceasul
+TICNIT | Zapacit | Zapacit
+TIGAIE | Vas de prajit | Vas de prajit
+TIGARE | Tutun rulat in hartie | Tutun rulat
+TIMBRU | Se lipeste pe scrisoare | Marca postala
+TIMPURIU | Venit mai devreme | Venit devreme
+TINDE | Se indreapta spre | Se indreapta
+TINEREI | A celei mladii | A celei mladii
+TINERETEA | Perioada de dinaintea maturitatii | Junete
+TINERETII | A varstei verzi | A varstei verzi
+TINERILOR | Ai celor de varsta frageda | De tineri
+TINICHEA | Metal subtire | Metal subtire
+TINTIT | Ochit | Ochit
+TITANIC | Nava scufundata | Nava scufundata
+TITLURI | Nume de carti | Nume
+TOCANA | Mancare fiarta in sos | Mancare
+TOCAT | Maruntit | Maruntit
+TOFU | Branza de soia | Branza de soia
+TOLERANTA | Rabdare fata de altii | Rabdare
+TOLERAT | Suportat | Suportat
+TOLEREZ | Suport | Suport
+TOMBERON | Container de gunoi | Container
+TOPESC | Fac lichid | Fac lichid
+TORNADA | Vartej urias de vant | Vartej
+TORPILA | Proiectil de pe mare | Proiectil
+TORY | Conservator englez | Conservator
+TOVARAS | Prieten sau camarad | Camarad
+TOXINA | Substanta otravitoare | Substanta otravitoare
+TRAC | Frica inainte de scena | Frica de scena
+TRACTOR | Masina agricola | Masina agricola
+TRADEZ | Inseal increderea | Inseal
+TRADITIONAL | Dupa obicei | Obisnuit
+TRADUC | Redau in alta limba | Redau in alta
+TRAGATOR | Cel care ocheste cu arma | Ochitor
+TRAGEAM | Impuscam | Impuscam
+TRAMVAI | Vehicul urban pe sine | Vehicul urban
+TRANSA | Stare de hipnoza | Stare de hipnoza
+TRANSEE | Sant pentru soldati | Sant militar
+TRANSFERATA | Mutata | Mutata
+TRANSFORMARE | Schimbare completa | Schimbare
+TRANSFUZIE | Pui sange in vena | Pui sange
+TRANSPIR | Ma ud de sudoare | Ma ud
+TRANSPIRAT | Ud de sudoare | Asudat
+TRANSPLANT | Mutare de organ | Grefa
+TRANTIT | Aruncat cu zgomot | Aruncat cu zgomot
+TRANZACTIE | Afacere facuta | Afacere
+TRANZIT | Trecere prin | Trecere
+TRANZITIE | Trecere de la o stare la alta | Trecere
+TRAP | Mers al calului | Mers
+TRASATURA | Caracteristica | Caracteristica
+TRASNET | Fulger care loveste | Fulger
+TRAUMATISM | Lovitura serioasa | Lovitura serioasa
+TRAVALIU | Munca grea | Munca grea
+TRAVERS | Barna de lemn | Barna
+TRAVESTIT | Imbracat in haine de sex opus | Imbracat
+TREAPTA | Un pas din scara | Pas din scara
+TREISPREZECE | Numarul ghinionist | Numar
+TREPTELE | Urcusul scarilor | Urcusul scarilor
+TRESTIE | Planta de balta | Planta de balta
+TREZIRE | Iesire din somn | Iesire din somn
+TRIBUT | Plata catre stapan | Plata catre stapan
+TRIMESTRU | Trei luni | Trei luni
+TRIO | Grup de trei | Grup de trei
+TRIPLA | De trei ori | De trei ori
+TRISOR | Cel care nu respecta regulile | Cel care nu respecta
+TRISTETEA | Starea de durere | Starea de durere
+TRIUMF | Mare victorie | Victorie
+TRIUNGHI | Figura cu trei laturi | Figura
+TROFIC | Legat de hrana | Legat de hrana
+TROMPETA | Instrument de suflat din alama | Instrument de suflat
+TROPICALA | Din zona calda | Din zona calda
+TRUNCHI | Corpul copacului | Corpul copacului
+TRUST | Mare grup economic | Mare grup economic
+TUFIS | Arbust | Arbust
+TUICA | Bautura tare de prune | Bautura tare
+TULBURARE | Agitatie | Agitatie
+TULPINA | Trunchi al plantei | Trunchi al plantei
+TUNDE | Taie parul | Taie parul
+TUNET | Zgomot dupa fulger | Zgomot
+TUNSOARE | Coafura scurta | Coafura
+TUNZI | Tai parul | Tai parul
+TURC | Locuitor din Istanbul | Locuitor din Istanbul
+TURCI | Locuitorii Ankarei | Locuitorii
+TURCII | Poporul din Ankara | Poporul din Ankara
+TURISM | Calatorii de placere | Calatorii de placere
+TURIST | Cel care calatoreste pentru placere | Calator
+TURISTIC | De calatorii | De calatorii
+TURNURA | Intorsatura | Intorsatura
+TURTA | Aluat plat si copt | Aluat plat
+TUSEA | Reflex al gatului | Reflex al gatului
+TUTORELE | Cel ce are grija legala de un minor | Cel ce are grija
+UCENIC | Cel care invata meseria | Elev
+UCIGAND | Omorand | Omorand
+UIMITA | Surprinsa | Surprinsa
+UITARE | Pierdere din memorie | Pierdere din memorie
+ULCER | Rana la stomac | Rana la stomac
+ULCIOR | Vas cu toarta pentru apa | Vas cu toarta
+ULTIMATUM | Avertisment final | Avertisment final
+ULTRA | Extrem | Extrem
+ULUIT | Foarte surprins | Mirat
+ULUITOR | Foarte surprinzator | Surprinzator
+UMANITATE | Omenire | Omenire
+UMFLATA | Marita | Marita
+UMILA | Smerita | Smerita
+UMILINTA | Injosire | Injosire
+UMILITA | Facuta de rusine | Facuta de rusine
+UMPLEM | Facem plin | Facem plin
+UNANIM | De comun acord | De comun acord
+UNEALTA | Scula | Scula
+UNELTELE | Ciocanul si clestele | Sculele
+UNGHIE | Se taie la manichiura | Parte a degetului
+UNICORN | Cal fantastic cu un corn | Cal fantastic
+UNIRE | Legare | Legare
+UNIVERSAL | Valabil pentru toti | General
+UNIVERSITAR | De facultate | De facultate
+UNSPREZECE | Numarul jucatorilor la fotbal | Numar
+URALE | Strigate de bucurie | Strigate de bucurie
+URANIU | Element radioactiv | Element
+URBAN | De oras | De oras
+URBANA | De oras | De oras
+URCARE | Mers in sus | Mers in sus
+URECHII | Al organului auzului | Al organului
+URINEZ | Merg la toaleta | Merg la toaleta
+URLAT | Strigat foarte tare | Strigat
+URLU | Strigat prelung | Strigat prelung
+URMATA | Continuata | Continuata
+URNA | Cutie de vot | Cutie de vot
+URSULET | Jucarie de plus | Jucarie
+USILOR | Ale intrarilor | Ale intrarilor
+USUC | Scot umezeala | Scot umezeala
+USUCA | Faci sa piarda umezeala | Zvanta
+UTER | Organ unde creste bebelusul | Organ
+UTILIZARE | Folosire | Folosire
+UTILIZAT | Folosit | Folosit
+UZAT | Tocit de folosire | Tocit
+UZINA | Fabrica mare | Fabrica
+VACANT | Liber, neocupat | Liber
+VAII | Al spatiului dintre munti | Al spatiului
+VALOROASA | Pretioasa | Pretioasa
+VALS | Dans in trei timpi | Dans
+VALVA | Clapeta pentru fluide | Clapeta
+VANATAIE | Pata vineta pe piele | Pata vineta
+VANDALISM | Distrugere a bunurilor publice | Distrugere
+VANZAND | Oferind marfa | Oferind marfa
+VARIETATE | Diversitate | Diversitate
+VARSA | Turna | Turna
+VARTEJ | Rotire puternica | Rotire puternica
+VASCULAR | Legat de vasele sangelui | De vene
+VAST | Intins | Intins
+VASTA | Foarte intinsa | Foarte intinsa
+VATA | Material moale, pufos | Material moale
+VATICAN | Cel mai mic stat, al Papei | Cel mai mic stat
+VATRA | Locul focului in casa | Locul focului
+VECHIME | Cat timp ai muncit | Stagiu
+VECHIULUI | Al lucrului din alte vremuri | Al lucrului
+VECINATATE | Zona de alaturi | Zona de alaturi
+VECTOR | Marime cu directie | Marime
+VEDEAI | Observai | Observai
+VEGETARIAN | Nu mananca carne | Fara carne
+VENERAT | Adorat | Adorat
+VENII | Am sosit | Am sosit
+VENIRE | Sosire | Sosire
+VENITA | Sosita | Sosita
+VENTILATIE | Schimb de aer | Schimb de aer
+VENTILATOR | Racoreste aerul | Racoreste aerul
+VERBAL | Spus cu gura | Spus cu gura
+VERDELE | Culoarea ierbii | Culoarea ierbii
+VERIGA | Parte dintr-un lant | Parte din lant
+VERIGHETA | Inel de casatorie | Inel de casatorie
+VERITABIL | Adevarat | Adevarat
+VERSI | Torni | Torni
+VERTICAL | In sus | In sus
+VERTICALA | Perpendiculara pe orizontala | Perpendiculara
+VESELIE | Bucurie si voie buna | Bucurie
+VEVERITA | Rozator de copac cu coada stufoasa | Rozator
+VEZICA | Organ in care se aduna urina | Organ
+VIABIL | Care poate trai | Care poate trai
+VIABILA | Care poate trai | Care poate trai
+VICIU | Obicei prost | Obicei prost
+VIDEOCLIP | Scurt film muzical | Film scurt
+VIERMII | Cele tarate | Cele tarate
+VIESPE | Insecta cu ac, galbena cu negru | Insecta
+VIKING | Razboinic nordic pe corabie | Nordic
+VINDECARE | Revenire la sanatate | Insanatosire
+VINDECATA | Tamaduita | Tamaduita
+VINOVATIE | Sentiment de vina | Vina
+VIOI | Plin de energie | Plin de energie
+VIOLARE | Incalcare | Incalcare
+VIPERA | Sarpe veninos | Sarpe veninos
+VIRAJ | Curba la volan | Curba
+VIRAL | Raspandit rapid pe net | Raspandit rapid
+VIRTUAL | Din calculator, nu real | Digital
+VIRTUALA | De pe calculator | De pe calculator
+VIRTUTE | Calitate morala | Calitate morala
+VIRTUTEA | Calitatea buna | Calitatea buna
+VISINA | Fruct acru, rosu | Fruct acru
+VITEAZ | Curajos | Curajos
+VITEJIE | Curaj | Curaj
+VITEL | Pui de vaca | Pui de vaca
+VITEZEI | A rapiditatii | A rapiditatii
+VITRINA | Geam de magazin | Geam de magazin
+VIZAT | Tintit | Tintit
+VIZIBIL | Care se vede | Care se vede
+VIZIBILA | Se vede | Se vede
+VIZIONARE | Privire la un film | Privire
+VIZIONAT | Privit | Privit
+VIZUALA | De vedere | De vedere
+VIZUINA | Casa vulpii | Casa vulpii
+VOAL | Panza fina | Panza fina
+VOIAJ | Calatorie | Calatorie
+VOLEI | Sport cu fileu si minge | Sport
+VOLUNTARA | De buna voie | De buna voie
+VOMAT | Dat afara din stomac | Dat afara
+VOMITI | Dai afara ce ai mancat | Dai afara
+VOPSESC | Colorez | Colorez
+VORBARET | Care vorbeste mult | Guraliv
+VORBIRE | Grai | Grai
+VORBITOR | Cel care vorbeste | Cel care vorbeste
+VOTARE | Alegeri | Alegeri
+VOTCA | Bautura tare rusa | Bautura
+VRAC | Nepachetat | Nepachetat
+VRACI | Vindecator din popor | Vindecator
+VRAJIT | Fermecat | Fermecat
+VREDNIC | Merita | Demn
+VREMURILOR | Ale epocilor | Ale epocilor
+VULNERABIL | Usor de ranit | Fragil
+VULPEA | Siretul din basm | Siretul din basm
+VULPI | Animale siretete | Animale siretete
+WESTERN | Film cu cowboy | Film
+WIRELESS | Fara fir | Fara fir
+YEN | Moneda Japoniei | Moneda Japoniei
+YUAN | Moneda chineza | Moneda
+ZACAND | Stand culcat | Stand culcat
+ZACEA | Sta intins | Sta intins
+ZAPACIT | Cu mintea incurcata | Cu mintea incurcata
+ZARIT | Vazut in treacat | Vazut in treacat
+ZARVA | Larma | Larma
+ZBARNAIT | Sunet de insecta | Sunet de insecta
+ZBAT | Agit cu putere | Agit
+ZBATE | Se agita | Se agita
+ZBURAND | In zbor | In zbor
+ZBURATI | Va ridicati in aer | Va ridicati
+ZBURATOARE | Care zboara | Care zboara
+ZBURATOR | Care zboara | Care zboara
+ZDRAVAN | Voinic | Voinic
+ZDROBESC | Fac bucati | Fac bucati
+ZDROBITA | Facuta bucati | Facuta bucati
+ZEBRA | Cal cu dungi | Cal cu dungi
+ZEL | Staruinta | Staruinta
+ZEROURI | Cifre rotunde | Cifre rotunde
+ZESTRE | Averea miresei | Averea miresei
+ZGARCIT | Fidel banilor | Avar
+ZGARDA | Curea la gatul cainelui | Curea la gat
+ZGARIE | Juleste | Juleste
+ZGARIETURA | Rana usoara | Julitura
+ZGOMOTOS | Plin de larma | Plin de larma
+ZGUDUI | Scuturi puternic | Scuturi
+ZGUDUIT | Scuturat tare | Scuturat
+ZIARIST | Scrie pentru ziar | Reporter
+ZICALA | Proverb | Proverb
+ZMEURA | Fruct rosu de padure | Fruct de padure
+ZOR | Graba mare | Graba mare
+ZORILOR | Ai inceputului de zi | Ai inceputului
+ZUMZET | Sunet de albine | Sunet de albine
